@@ -30,11 +30,12 @@ Full architecture, data pipeline, weekly timeline, and team role split:
 
 | Name | Role |
 |---|---|
-| [الاسم] | Data Engineering |
-| [الاسم] | Branch A - URL/HTML ML |
-| [الاسم] | Branch B - Computer Vision |
-| [الاسم] | Backend & Browser Extension |
-| [الاسم] | Explainability & Docs |
+| Mohand Moustafa | TBD |
+| Mohamed Walid | TBD |
+| Noureldin Mahmoud | TBD |
+| Mahmoud Didamon | TBD |
+| Sama Tarek | TBD |
+| Martina safwat | TBD |
 
 ## Project structure
 
