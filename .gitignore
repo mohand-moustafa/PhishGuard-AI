@@ -1,0 +1,61 @@
+# ===== Data (large files - never commit raw/processed data to Git) =====
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.txt
+data/processed/*.csv
+data/processed/*.parquet
+*.png
+*.jpg
+*.jpeg
+!docs/**/*.png
+!docs/**/*.jpg
+
+# ===== HTML dumps from crawling =====
+html_raw/
+screenshots/
+
+# ===== Trained models (large files - never commit to Git) =====
+models/*.pkl
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.h5
+mlruns/
+mlflow.db
+
+# ===== Environment / secrets =====
+.env
+*.env
+!.env.example
+
+# ===== Python =====
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# ===== Jupyter =====
+.ipynb_checkpoints
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Browser extension build artifacts =====
+extension/*.zip
+extension/dist/
+
+# ===== Logs =====
+*.log
+logs/

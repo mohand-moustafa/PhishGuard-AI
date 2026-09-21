@@ -1,0 +1,28 @@
+# --- Core ---
+pandas
+numpy
+python-dotenv
+
+# --- Data collection ---
+requests
+beautifulsoup4
+tldextract
+
+# --- Branch A: URL/HTML classical ML ---
+scikit-learn
+xgboost
+shap
+
+# --- Branch B: visual pipeline (added when we start it) ---
+# playwright
+# torch
+# transformers
+# ultralytics        # YOLO
+# easyocr
+
+# --- Backend API (added when we start it) ---
+# fastapi
+# uvicorn
+
+# --- Experiment tracking ---
+mlflow
