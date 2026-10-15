@@ -1,0 +1,14 @@
+Decision Tree on PCA-transformed data
+========================================
+Training rows: 47875
+Number of PCA features: 25
+Cross-validation ROC-AUC: 0.996708
+Tree depth: 5
+Number of leaves: 30
+Best parameters: {'class_weight': None, 'criterion': 'entropy', 'max_depth': 5, 'min_samples_leaf': 10, 'min_samples_split': 25}
+
+Validation metrics:
+                     Accuracy  Precision    Recall        F1   ROC_AUC  PR_AUC_AP
+Split                                                                            
+Baseline             0.986005    0.99336  0.979952  0.986611  0.988411   0.988698
+Tuned Decision Tree  0.985274    0.98591  0.986106  0.986008  0.996559   0.996317
