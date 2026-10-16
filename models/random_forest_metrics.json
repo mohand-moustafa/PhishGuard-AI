@@ -1,0 +1,35 @@
+[
+  {
+    "Model": "Optuna",
+    "Accuracy": 0.9959,
+    "Balanced accuracy": 0.996,
+    "Precision": 0.9978,
+    "Recall": 0.9944,
+    "F1": 0.9961,
+    "ROC-AUC": 0.9994,
+    "Average precision": 0.9996,
+    "5-fold CV accuracy": 0.9935039164490863
+  },
+  {
+    "Model": "Baseline",
+    "Accuracy": 0.9952,
+    "Balanced accuracy": 0.9952,
+    "Precision": 0.997,
+    "Recall": 0.9938,
+    "F1": 0.9954,
+    "ROC-AUC": 0.9992,
+    "Average precision": 0.9994,
+    "5-fold CV accuracy": 0.9931488250652741
+  },
+  {
+    "Model": "GridSearchCV",
+    "Accuracy": 0.9948,
+    "Balanced accuracy": 0.9949,
+    "Precision": 0.997,
+    "Recall": 0.9932,
+    "F1": 0.9951,
+    "ROC-AUC": 0.9994,
+    "Average precision": 0.9996,
+    "5-fold CV accuracy": 0.9921462140992168
+  }
+]
