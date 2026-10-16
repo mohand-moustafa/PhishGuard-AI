@@ -1,0 +1,73 @@
+{
+  "dataset_path": "C:\\Users\\user\\.copilot\\repos\\copilot-worktrees\\PhishGuard-AI\\mohand-moustafa-symmetrical-adventure\\data\\processed\\cleaned_dataset.csv",
+  "rows": 59845,
+  "columns": 21,
+  "exact_duplicate_rows": 0,
+  "duplicate_url_strings": 0,
+  "duplicate_normalized_urls": 170,
+  "duplicate_urls_with_conflicting_labels": 1,
+  "unique_registrable_domains": 30028,
+  "domains_with_mixed_labels": 185,
+  "label_distribution": {
+    "phishing": 31488,
+    "legitimate": 28357
+  },
+  "missing_value_summary": {
+    "domain_age": 18626,
+    "ttl": 4141
+  },
+  "normalized_url_duplicates_preview": [
+    {
+      "normalized_url": "fastswap-v2.vercel.app",
+      "count": 2
+    },
+    {
+      "normalized_url": "mcntepio.sbs",
+      "count": 2
+    },
+    {
+      "normalized_url": "appespacemanager.deltaseashipping.com/?46525l5hyu=45vgi90k00d",
+      "count": 2
+    },
+    {
+      "normalized_url": "6y6s56yhh56y6y656.pages.dev",
+      "count": 2
+    },
+    {
+      "normalized_url": "trezor-logiinnn.blogspot.com",
+      "count": 2
+    },
+    {
+      "normalized_url": "trade-iq-option-2021.blogspot.com",
+      "count": 2
+    },
+    {
+      "normalized_url": "sp380679.sitebeat.crazydomains.com",
+      "count": 2
+    },
+    {
+      "normalized_url": "1inch-extension.vercel.app",
+      "count": 2
+    },
+    {
+      "normalized_url": "allegrolokalnie.pl-oferta482823.cfd",
+      "count": 2
+    },
+    {
+      "normalized_url": "nashvillefix.com",
+      "count": 2
+    }
+  ],
+  "split_audit": {
+    "rows": 59845,
+    "train_rows": 47875,
+    "test_rows": 11970,
+    "phishing_share_overall": 0.5261592447155151,
+    "phishing_share_train": 0.5261618798955614,
+    "phishing_share_test": 0.5261487050960735,
+    "hosts_shared_between_train_and_test": 0,
+    "exact_feature_vector_overlap_test_in_train": 716,
+    "exact_feature_vector_overlap_ratio_test": 0.05981620718462824,
+    "feature_columns_count": 19
+  }
+}
