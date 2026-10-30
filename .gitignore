@@ -1,8 +1,8 @@
 # ===== Data (large files - never commit raw/processed data to Git) =====
-data/raw/*.csv
+#data/raw/*.csv
 data/raw/*.zip
 data/raw/*.txt
-data/processed/*.csv
+#data/processed/*.csv
 data/processed/*.parquet
 *.png
 *.jpg
