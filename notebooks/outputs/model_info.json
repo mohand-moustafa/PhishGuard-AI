@@ -1,0 +1,138 @@
+{
+  "threshold": 0.4,
+  "features": [
+    "PC01",
+    "PC02",
+    "PC03",
+    "PC04",
+    "PC05",
+    "PC06",
+    "PC07",
+    "PC08",
+    "PC09",
+    "PC10",
+    "PC11",
+    "PC12",
+    "PC13",
+    "PC14",
+    "PC15",
+    "PC16",
+    "PC17",
+    "PC18",
+    "PC19",
+    "PC20",
+    "PC21",
+    "PC22",
+    "PC23",
+    "PC24",
+    "PC25"
+  ],
+  "lr_C": 0.3,
+  "lr_xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "tree_method": "hist",
+    "nthread": -1,
+    "seed": 42,
+    "eta": 0.04180290844151472,
+    "max_depth": 5,
+    "min_child_weight": 13.65795159690411,
+    "gamma": 0.9419840316379865,
+    "subsample": 0.786312666321977,
+    "colsample_bytree": 0.5656294289984171,
+    "reg_lambda": 1.6680516403871992,
+    "reg_alpha": 0.02581745708433915
+  },
+  "lr_xgb_rounds": 2058,
+  "tuned_xgb_params": {
+    "learning_rate": 0.03862675413604188,
+    "max_depth": 8,
+    "min_child_weight": 3.3799495309582923,
+    "gamma": 0.16812966097160487,
+    "subsample": 0.9053380350327336,
+    "colsample_bytree": 0.6697873261052507,
+    "reg_lambda": 0.34960313512258395,
+    "reg_alpha": 0.002870730557024706
+  },
+  "tuned_xgb_rounds": 712,
+  "cv_results": [
+    {
+      "model": "Default XGBoost",
+      "log_loss": 0.08868,
+      "accuracy": 0.971644,
+      "errors": 2370,
+      "roc_auc": 0.995096
+    },
+    {
+      "model": "Logistic Regression (tuned C)",
+      "log_loss": 0.161516,
+      "accuracy": 0.939147,
+      "errors": 5086,
+      "roc_auc": 0.980883
+    },
+    {
+      "model": "Tuned XGBoost",
+      "log_loss": 0.074231,
+      "accuracy": 0.972254,
+      "errors": 2319,
+      "roc_auc": 0.995652
+    },
+    {
+      "model": "Logistic Regression + XGBoost",
+      "log_loss": 0.078399,
+      "accuracy": 0.970495,
+      "errors": 2466,
+      "roc_auc": 0.99515
+    }
+  ],
+  "test_results": [
+    {
+      "model": "Default XGBoost",
+      "accuracy": 0.936588,
+      "precision": 0.864052,
+      "recall": 0.966368,
+      "f1": 0.91235,
+      "roc_auc": 0.989528,
+      "log_loss": 0.212361,
+      "FP": 1085,
+      "FN": 240,
+      "errors": 1325
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.947308,
+      "precision": 0.910265,
+      "recall": 0.938201,
+      "f1": 0.924022,
+      "roc_auc": 0.988671,
+      "log_loss": 0.131894,
+      "FP": 660,
+      "FN": 441,
+      "errors": 1101
+    },
+    {
+      "model": "Tuned XGBoost",
+      "accuracy": 0.939028,
+      "precision": 0.869051,
+      "recall": 0.967209,
+      "f1": 0.915506,
+      "roc_auc": 0.988501,
+      "log_loss": 0.162069,
+      "FP": 1040,
+      "FN": 234,
+      "errors": 1274
+    },
+    {
+      "model": "Logistic Regression + XGBoost (final)",
+      "accuracy": 0.936061,
+      "precision": 0.858822,
+      "recall": 0.972674,
+      "f1": 0.912209,
+      "roc_auc": 0.990808,
+      "log_loss": 0.161417,
+      "FP": 1141,
+      "FN": 195,
+      "errors": 1336
+    }
+  ]
+}

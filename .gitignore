@@ -59,3 +59,10 @@ extension/dist/
 # ===== Logs =====
 *.log
 logs/
+
+# CatBoost runtime logs
+catboost_info/
+notebooks/catboost_info/
+models/random_forest.joblib
+notebooks/*.pkl
+notebooks/*.joblib
