@@ -2,7 +2,6 @@
   {
     "Model": "Optuna",
     "Accuracy": 0.9398,
-    "Balanced accuracy": 0.9461,
     "Precision": 0.8717,
     "Recall": 0.9658,
     "F1": 0.9164,
@@ -13,7 +12,6 @@
   {
     "Model": "Baseline",
     "Accuracy": 0.9397,
-    "Balanced accuracy": 0.9461,
     "Precision": 0.871,
     "Recall": 0.9664,
     "F1": 0.9162,
@@ -24,7 +22,6 @@
   {
     "Model": "GridSearchCV",
     "Accuracy": 0.9465,
-    "Balanced accuracy": 0.9494,
     "Precision": 0.8927,
     "Recall": 0.9585,
     "F1": 0.9244,

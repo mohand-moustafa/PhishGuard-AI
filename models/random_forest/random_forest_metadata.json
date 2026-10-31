@@ -33,7 +33,7 @@
     "PC25"
   ],
   "feature_count": 25,
-  "sklearn_version": "1.9.1",
+  "sklearn_version": "1.8.0",
   "cv": {
     "type": "StratifiedKFold",
     "n_splits": 5,
