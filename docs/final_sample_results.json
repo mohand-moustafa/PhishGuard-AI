@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "023826_phish360_P17394_chase.png",
+    "true_label": "phishing",
+    "pred_label": "phishing",
+    "confidence": 0.9999411106109619,
+    "is_correct": true
+  },
+  {
+    "filename": "011575_zenodo_12849_www.dropbox.com_scl_fi_x5yics18iuva6dfrydt3g_GMX-Postfach.paper_rlkey_qtl2.png",
+    "true_label": "phishing",
+    "pred_label": "phishing",
+    "confidence": 0.9232597351074219,
+    "is_correct": true
+  },
+  {
+    "filename": "011227_zenodo_9912_consumercellular.com.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.8042954206466675,
+    "is_correct": true
+  },
+  {
+    "filename": "007259_zenodo_27341_letsencrypt.org.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.999964714050293,
+    "is_correct": true
+  },
+  {
+    "filename": "007305_zenodo_27463_stuba.sk.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.9999792575836182,
+    "is_correct": true
+  },
+  {
+    "filename": "001478_zenodo_13249_qantas.com.au.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.9901853799819946,
+    "is_correct": true
+  },
+  {
+    "filename": "002559_zenodo_15866_tapatalk.com.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.9999197721481323,
+    "is_correct": true
+  },
+  {
+    "filename": "012023_zenodo_18195_www.elespanol.com_omicrono_software_20220629_cliente-bbva-cuidado-virus-cl.png",
+    "true_label": "phishing",
+    "pred_label": "legitimate",
+    "confidence": 0.999997615814209,
+    "is_correct": false
+  },
+  {
+    "filename": "023683_phish360_P16791_outlook.png",
+    "true_label": "phishing",
+    "pred_label": "phishing",
+    "confidence": 0.9999992847442627,
+    "is_correct": true
+  },
+  {
+    "filename": "023344_phish360_P15796_office.png",
+    "true_label": "phishing",
+    "pred_label": "phishing",
+    "confidence": 0.9999700784683228,
+    "is_correct": true
+  }
+]
