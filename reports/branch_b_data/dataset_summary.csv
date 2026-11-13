@@ -1,0 +1,2 @@
+﻿project_root,total_discovered_images,readable_images,unreadable_images,fully_white_images,unique_sha256_hashes,exact_duplicate_groups,images_in_exact_duplicate_groups,conflicting_label_groups,images_in_conflicting_label_groups,images_with_phash,near_duplicate_candidate_pairs,phash_hamming_distance_threshold,final_cleaned_dataset_size,final_class_distribution
+D:\DEPI Graduation Project\computer_vision_milstone,19850,19832,18,169,15189,3038,7681,5,209,19832,215875,5,15184,"{'phishing': 4752, 'legitimate': 10432}"

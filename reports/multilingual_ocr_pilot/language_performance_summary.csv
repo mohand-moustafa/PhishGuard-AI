@@ -1,0 +1,12 @@
+﻿ocr_model_language,images,successful,failed,avg_time_seconds
+ar,1,1,0,36.31
+de,1,1,0,35.07
+en,37,37,0,38.6
+es,1,1,0,28.86
+fr,2,2,0,40.12
+id,1,1,0,35.08
+no,1,1,0,33.44
+ro,1,1,0,52.02
+ru,1,1,0,47.87
+th,1,1,0,146.45
+tr,1,1,0,47.3

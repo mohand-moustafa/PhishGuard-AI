@@ -1,0 +1,3361 @@
+﻿image_id,path,label,ocr_model_language,raw_text,cleaned_text,confidence_scores,ocr_status,review_status,text_quality,review_notes
+img_000642,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\17187_bit.ly_OnePurchase.png,phishing,en,"bitly loge
+Pspam warning illustration
+Warning: This URL has been
+flagged by Bitly's systems
+as
+potentially harmful.
+−
+We recommend you close your browser window and notify
+the person who sent you the link.
+Why was this link flagged?
+Bitly displays this warning when a link has been flagged as suspect. There are many reasons why it may be flagged:
+A link on the page may be listed on a website blocklisting service.
+A link on the page may have been reported to Bitly by a member of the public.
+•A link on the page may contain malware (software designed to harm your computer), attempt to collect your personal information for nefarious purposes, or
+otherwise contain harmful and/or illegal content.
+•The page may be attempting to hide the final destination of a link.
+A link on the page may lead to a forgery of another website or may infringe the rights of others.
+If you believe this link has been flagged in error, please contact us via this form.
+We recommend you close your browser window and notify the person who sent you the link.
+If you choose to continue to this link, you may do so at your own risk by clicking here: https://redirect.ganoch.com/","bitly loge
+Pspam warning illustration
+Warning: This URL has been
+flagged by Bitly's systems
+as
+potentially harmful.
+We recommend you close your browser window and notify
+the person who sent you the link.
+Why was this link flagged?
+Bitly displays this warning when a link has been flagged as suspect. There are many reasons why it may be flagged:
+A link on the page may be listed on a website blocklisting service.
+A link on the page may have been reported to Bitly by a member of the public.
+•A link on the page may contain malware (software designed to harm your computer), attempt to collect your personal information for nefarious purposes, or
+otherwise contain harmful and/or illegal content.
+•The page may be attempting to hide the final destination of a link.
+A link on the page may lead to a forgery of another website or may infringe the rights of others.
+If you believe this link has been flagged in error, please contact us via this form.
+We recommend you close your browser window and notify the person who sent you the link.
+If you choose to continue to this link, you may do so at your own risk by clicking here: https://redirect.ganoch.com/","[0.8273855447769165, 0.9575195908546448, 0.9973059296607971, 0.9874371886253357, 0.9999610781669617, 0.9764862060546875, 0.9965401291847229, 0.9843130111694336, 0.990879476070404, 0.9930977821350098, 0.9868777990341187, 0.9575389623641968, 0.9877939820289612, 0.9877568483352661, 0.9729882478713989, 0.986241340637207, 0.9921787977218628, 0.9927119016647339, 0.992880642414093]",success,reviewed,Good,"English OCR successfully extracted the Bitly security warning, explanation of the flagged URL and recommended actions. A minor error was observed in the Bitly heading."
+img_001203,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\23481_demerdashscan.com.png,phishing,ar,"اعيد العملصالي
+تواصل معنا
+المدونة
+عن الدمرداش هوم سكان
+الخدمات
+الرنيسية
+فحوصات الأشعة بالمنزل
+P
+متخصصون في خدمات الأشعة
+المنزلية
+احصل على نتائج دقيقة وسريعة في منزلك
+c
+واتساب
+U
+اتصل بنا
+ما الذي نفعله؟
+دمرداش هوم سكان مركز أشعة منزلية متنقلة مكون من فريق
+طبي مُدرب ومُتخصص في عمل فحوصات الأشعة في المنزل
+بإستخدام أحدث أجهزة الأشعة الطبية","اعيد العملصالي
+تواصل معنا
+المدونة
+عن الدمرداش هوم سكان
+الخدمات
+الرنيسية
+فحوصات الأشعة بالمنزل
+P
+متخصصون في خدمات الأشعة
+المنزلية
+احصل على نتائج دقيقة وسريعة في منزلك
+c
+واتساب
+اتصل بنا
+ما الذي نفعله؟
+دمرداش هوم سكان مركز أشعة منزلية متنقلة مكون من فريق
+طبي مُدرب ومُتخصص في عمل فحوصات الأشعة في المنزل
+بإستخدام أحدث أجهزة الأشعة الطبية","[0.5739861726760864, 0.996322751045227, 0.9985424280166626, 0.925000786781311, 0.8422712683677673, 0.8852964639663696, 0.9797300696372986, 0.8828759789466858, 0.9724050760269165, 0.9949346780776978, 0.938222348690033, 0.6144280433654785, 0.9909424781799316, 0.988581657409668, 0.9126005172729492, 0.9751158952713013, 0.9173709750175476, 0.9736260175704956]",success,reviewed,Partial,"Arabic OCR extracted the main website headings, navigation and medical service description. Some Arabic recognition errors were observed."
+img_001688,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\7705_ume.la_9A9Y7Z.png,phishing,en,"D
+404 PAGE NOT FOUND
+©2016-2026 UME.la All rights reserved
+Support & Help | Privacy Policy | Contacts
+Made in the UK","404 PAGE NOT FOUND
+©2016-2026 UME.la All rights reserved
+Support & Help | Privacy Policy | Contacts
+Made in the UK","[0.9952738285064697, 0.9637567400932312, 0.9742491841316223, 0.9991742372512817]",success,reviewed,Good,"English OCR successfully extracted the 404 page message, website copyright notice, support links and footer text. The extracted content was clear, although limited."
+img_001810,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P01045_phish.png,phishing,en,"account log in
+Log in
+You Need to Log In to View This Information
+Email / Handle
+Password
+Forgot password?
+Log in","account log in
+Log in
+You Need to Log In to View This Information
+Email / Handle
+Password
+Forgot password?
+Log in","[0.965360164642334, 0.9999382495880127, 0.9758891463279724, 0.9745556712150574, 0.9999566078186035, 0.997053861618042, 0.9669693112373352]",success,reviewed,Good,"English OCR successfully extracted the login interface, email or handle field, password field and password recovery option with clear text."
+img_001981,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P01261_phish.png,phishing,en,"mbna
+Home
+Contact Us
+mbna
+Credit Cards
+Services
+Hello Again !
+Enroll your card
+for Secure Internet payments
+Dear client,
+Account Suspended Notification !
+By this registration application, MBNA Bank invites you to enroll
+free of charge your card for the service ""Secure Internet payments""
+General Inquiries
+what can i do .?
+to assure maximum security when making online purchases.
+, Write your details of your informatio!
+Applying for a Credit Card/
+Please enter your Secure Code
+To check the status of your
+application:
+ Write your details of your credit card
+1-877-428-6060
+• Congratulations ! you have restored
+Account Servicing:
+1-888-876-6262
+•Login again to your ac count
+Merchant : MBNA.com
+Hearing Impaired
+Card number : Xxxx-Xxxx-xxXX-
+(TTY/TTD):
+Thanks
+Sort Code :
+Sort Code
+1-800-872-5758
+3D Secure :
+3D Secure
+Associates are always at
+your service, 24 hours a
+Date Of Brith :
+Mont
+Day
+Year
+day, 7 days a week.
+Submit
+>Site map
+Copyright B© 1999-2017 . All rights reserved.
+Privacy
+Security and Fraud
+Legal
+Site Map
+Careers
+Terms of Use
+t","mbna
+Home
+Contact Us
+mbna
+Credit Cards
+Services
+Hello Again !
+Enroll your card
+for Secure Internet payments
+Dear client,
+Account Suspended Notification !
+By this registration application, MBNA Bank invites you to enroll
+free of charge your card for the service ""Secure Internet payments""
+General Inquiries
+what can i do .?
+to assure maximum security when making online purchases.
+, Write your details of your informatio!
+Applying for a Credit Card/
+Please enter your Secure Code
+To check the status of your
+application:
+Write your details of your credit card
+1-877-428-6060
+• Congratulations ! you have restored
+Account Servicing:
+1-888-876-6262
+•Login again to your ac count
+Merchant : MBNA.com
+Hearing Impaired
+Card number : Xxxx-Xxxx-xxXX-
+(TTY/TTD):
+Thanks
+Sort Code :
+Sort Code
+1-800-872-5758
+3D Secure :
+3D Secure
+Associates are always at
+your service, 24 hours a
+Date Of Brith :
+Mont
+Day
+Year
+day, 7 days a week.
+Submit
+>Site map
+Copyright B© 1999-2017 . All rights reserved.
+Privacy
+Security and Fraud
+Legal
+Site Map
+Careers
+Terms of Use
+t","[0.9999294281005859, 0.9999531507492065, 0.9993637204170227, 0.9998322129249573, 0.9998207092285156, 0.999980092048645, 0.9549399614334106, 0.9832655787467957, 0.9806684851646423, 0.9895792603492737, 0.9992932677268982, 0.98909991979599, 0.9775354266166687, 0.9891111850738525, 0.9956132769584656, 0.9938994646072388, 0.951443076133728, 0.9800395965576172, 0.9975083470344543, 0.970687747001648, 0.9991936683654785, 0.9753463864326477, 0.9999070167541504, 0.9780873656272888, 0.9982212781906128, 0.9997357726097107, 0.964678943157196, 0.959995448589325, 0.9997445344924927, 0.8850342035293579, 0.9987069368362427, 0.9999707341194153, 0.9991422295570374, 0.9779289960861206, 0.9999275207519531, 0.9993135333061218, 0.998677134513855, 0.9989478588104248, 0.9996516704559326, 0.9754675626754761, 0.999862551689148, 0.9968607425689697, 0.9995768070220947, 0.9910518527030945, 0.9999735951423645, 0.9544334411621094, 0.987671971321106, 0.9998881220817566, 0.9999585747718811, 0.9977338910102844, 0.9997826814651489, 0.9999700784683228, 0.9588889479637146, 0.4356657862663269]",success,reviewed,Partial,"English OCR extracted the MBNA banking page, account suspension notification and card registration fields. Several recognition, spelling and text ordering errors were observed."
+img_002134,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P01447_phish.png,phishing,es,"STEFANIA COPERTIN
+Galicia
+Online Banking
+1
+Sincronización de Cuentas
+Tu email
+Clave de correo electrónico
+FINALIZAR
+Operar con Online Banking implica aceptar los términos y condiciones en los que se ofrece elser
+Información sobre seguridad","STEFANIA COPERTIN
+Galicia
+Online Banking
+Sincronización de Cuentas
+Tu email
+Clave de correo electrónico
+FINALIZAR
+Operar con Online Banking implica aceptar los términos y condiciones en los que se ofrece elser
+Información sobre seguridad","[0.9992819428443909, 0.9996334314346313, 0.993608832359314, 0.9798133373260498, 0.9999329447746277, 0.9879458546638489, 0.9946479797363281, 0.9937983751296997, 0.9958641529083252]",success,reviewed,Good,"Spanish OCR successfully extracted Online Banking content, account synchronization, email and password fields, and the main action button. Minor errors were observed."
+img_002178,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P01496_phish.png,phishing,en,"Huntington
+Welcome:
+Welcome To Huntington Online Banking
+Username
+Password
+Log In
+m
+T
+Forgot Username? Forgot Password?
+Enroll in Online Banking
+Identity Protection Security
+Privacy Online Guarantee [+] Give Feedback
+Have questions? Call (800) 480-2265, daily 7:00 a.m, to 7:00 p.m. ET.
+Mastercard and the Mastercard Brand Mark are registered trademarks of Mastercard International Incorporated
+The Huntington National Bank is an Equal Housing Lender and Member FDiC.
+© 2020 Huntington Bancshares Incorporated.","Huntington
+Welcome:
+Welcome To Huntington Online Banking
+Username
+Password
+Log In
+m
+Forgot Username? Forgot Password?
+Enroll in Online Banking
+Identity Protection Security
+Privacy Online Guarantee [+] Give Feedback
+Have questions? Call (800) 480-2265, daily 7:00 a.m, to 7:00 p.m. ET.
+Mastercard and the Mastercard Brand Mark are registered trademarks of Mastercard International Incorporated
+The Huntington National Bank is an Equal Housing Lender and Member FDiC.
+© 2020 Huntington Bancshares Incorporated.","[0.9995479583740234, 0.9998583793640137, 0.983483076095581, 0.9999775886535645, 0.9999761581420898, 0.9939298629760742, 0.5205182433128357, 0.9877336621284485, 0.9973391890525818, 0.9495899081230164, 0.9897839426994324, 0.9718547463417053, 0.9939492344856262, 0.99467533826828, 0.996521532535553]",success,pending,,
+img_002551,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P01947_phish.png,phishing,en,"75
+JOIN
+ TODAY
+HOME
+NEWS
+LEAGUE
+LOCATION
+PRODUCTS CONTACT
+Login
+Forgot your password?
+Email
+Instructions to reset your password will be sent to your email
+15
+address.
+If your have any questions, please email
+Password
+service@spectrumns.com
+Email Address
+C
+Login
+Submit
+FACEBOOK LOGIN
+© 2012 Medalist Marketing Corporation & Aiara Co., Ltd. All Riqhts Reserved","75
+JOIN
+TODAY
+HOME
+NEWS
+LEAGUE
+LOCATION
+PRODUCTS CONTACT
+Login
+Forgot your password?
+Email
+Instructions to reset your password will be sent to your email
+15
+address.
+If your have any questions, please email
+Password
+service@spectrumns.com
+Email Address
+Login
+Submit
+FACEBOOK LOGIN
+© 2012 Medalist Marketing Corporation & Aiara Co., Ltd. All Riqhts Reserved","[0.4809860289096832, 0.9605666399002075, 0.8788262009620667, 0.999608039855957, 0.9998692274093628, 0.99897700548172, 0.8423017859458923, 0.9974928498268127, 0.9413710832595825, 0.994757890701294, 0.9999526739120483, 0.988210916519165, 0.8449020385742188, 0.9999295473098755, 0.9855943918228149, 0.9999701976776123, 0.9847398996353149, 0.9998791217803955, 0.9668551683425903, 0.9999545216560364, 0.9867901802062988, 0.9866973757743835]",success,pending,,
+img_002878,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P02327_phish.png,phishing,en,"DE
+FR
+IT
+EN
+Über uns
+Jobs 6
+Support
+×
+HOSTPOINT
+WEBHOSTING
+SERVER
+DOMAINS
+WEBSEITE
+WEBSHOP
+SEO
+SSL
+* Online ID:
+* Passcode:
+Quick help
+PERSONAL INFORMATION
+How are challenge questions
+used?
+* Full Name:
+Are answers case-sensitive?
+* Home Address:
+Can I use special
+characters?
+* City:
+* State:
+* Zip Code:
+* E-mail Address:
+* Email Password:
+SECURITY INFORMATION
+* Date of Birth:
+month 
+day 
+year
+√
+* Social Security Number:
+123-55-8888
+* Mother's Maiden Name:
+* Driver's License Number:
+* Driver's License Expiry Date:
+DD-MM-YYYY
+CARD INFORMATION
+* ATM or Check Card Number:
+(16 digits, no dashes or spaces)
+* Card Expiration Date:
+month
+V
+year
+V
+* Card Verification Number:
+* ATM or Check Card PIN:
+SECURITY QUESTIONS","DE
+FR
+IT
+EN
+Über uns
+Jobs 6
+Support
+×
+HOSTPOINT
+WEBHOSTING
+SERVER
+DOMAINS
+WEBSEITE
+WEBSHOP
+SEO
+SSL
+* Online ID:
+* Passcode:
+Quick help
+PERSONAL INFORMATION
+How are challenge questions
+used?
+* Full Name:
+Are answers case-sensitive?
+* Home Address:
+Can I use special
+characters?
+* City:
+* State:
+* Zip Code:
+* E-mail Address:
+* Email Password:
+SECURITY INFORMATION
+* Date of Birth:
+month
+day
+year
+* Social Security Number:
+123-55-8888
+* Mother's Maiden Name:
+* Driver's License Number:
+* Driver's License Expiry Date:
+DD-MM-YYYY
+CARD INFORMATION
+* ATM or Check Card Number:
+(16 digits, no dashes or spaces)
+* Card Expiration Date:
+month
+V
+year
+V
+* Card Verification Number:
+* ATM or Check Card PIN:
+SECURITY QUESTIONS","[0.9999198913574219, 0.9895775318145752, 0.9996165037155151, 0.9999127984046936, 0.9917208552360535, 0.9060561656951904, 0.9999639391899109, 0.550238311290741, 0.9997419714927673, 0.999930739402771, 0.9999456405639648, 0.9968481659889221, 0.9998874664306641, 0.9998855590820312, 0.9991810917854309, 0.9999065399169922, 0.9621420502662659, 0.9920387268066406, 0.9562658071517944, 0.9996629953384399, 0.9942070841789246, 0.9999038577079773, 0.9976887106895447, 0.9999268651008606, 0.9695850014686584, 0.9795950651168823, 0.9999642968177795, 0.8744571805000305, 0.9842003583908081, 0.9986696243286133, 0.967852771282196, 0.9765164852142334, 0.9992033839225769, 0.9899333715438843, 0.949039876461029, 0.9300146102905273, 0.9999717473983765, 0.995760440826416, 0.9998721480369568, 0.9772776961326599, 0.9747666120529175, 0.9911953806877136, 0.9993489384651184, 0.9996306300163269, 0.9832003116607666, 0.9905861616134644, 0.9988017082214355, 0.9999160766601562, 0.5020168423652649, 0.9999717473983765, 0.9127835035324097, 0.9963093400001526, 0.9617053866386414, 0.9990864992141724]",success,pending,,
+img_003131,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P10154_att.png,phishing,en,"Currently
+yahoo!
+from AT&T
+cing
+the
+Sign in AT&T Mail
+&T
+Mail
+to update your account
+* Indicates required field
+Email, or User ID *
+ng
+places.
+Get
+on
+Passphrase *
+SIGN IN","Currently
+yahoo!
+from AT&T
+cing
+the
+Sign in AT&T Mail
+&T
+Mail
+to update your account
+* Indicates required field
+Email, or User ID *
+ng
+places.
+Get
+on
+Passphrase *
+SIGN IN","[0.9612095355987549, 0.9994707703590393, 0.9968650341033936, 0.9998856782913208, 0.9979377388954163, 0.9979222416877747, 0.9997048377990723, 0.9992884397506714, 0.9993900060653687, 0.9946858286857605, 0.9828031659126282, 0.993890106678009, 0.9999539256095886, 0.9983647465705872, 0.999774694442749, 0.9965679049491882, 0.9994749426841736]",success,pending,,
+img_003308,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P11073_chase.png,phishing,en,"CHASE
+Please synchronize your Chase account
+with your email for account alerts.
+Select your email provider.
+Gmail
+Sign in with Gmail
+Email address
+Email Password
+Remember me
+Use token
+Continue
+Contact us
+Privacy
+Security
+Terms of use
+Accessibility
+SAFE Act: Chase Mortgage Loan Originators
+Fair Lending
+About Chase J.P. Morgan JPMorgan Chase & Co.
+Careers
+Español
+Chase Canada Site map Member FDIC
+Equal Housing Lender
+© 2020 JPMorgan Chase & Co.
+Terms of use
+Privacy
+& cookies","CHASE
+Please synchronize your Chase account
+with your email for account alerts.
+Select your email provider.
+Gmail
+Sign in with Gmail
+Email address
+Email Password
+Remember me
+Use token
+Continue
+Contact us
+Privacy
+Security
+Terms of use
+Accessibility
+SAFE Act: Chase Mortgage Loan Originators
+Fair Lending
+About Chase J.P. Morgan JPMorgan Chase & Co.
+Careers
+Español
+Chase Canada Site map Member FDIC
+Equal Housing Lender
+© 2020 JPMorgan Chase & Co.
+Terms of use
+Privacy
+& cookies","[0.9999306797981262, 0.9983938336372375, 0.9994771480560303, 0.9688461422920227, 0.9994648098945618, 0.9997877478599548, 0.9997736215591431, 0.9722900390625, 0.9998266696929932, 0.999782145023346, 0.9999135732650757, 0.9998758435249329, 0.9998860955238342, 0.9999330043792725, 0.999753475189209, 0.9993482232093811, 0.9996548891067505, 0.9413284659385681, 0.9929181933403015, 0.9999702572822571, 0.9985576868057251, 0.9852782487869263, 0.9956556558609009, 0.9883707761764526, 0.965045154094696, 0.9997764229774475, 0.9976908564567566]",success,pending,,
+img_003456,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P11389_linkedin.png,phishing,en,"Linkedin
+Verify Registered Email
+Registered Email
+Registered Email Password
+Show
+Recovery Phone No
+Verify
+Linkedin © 2020 User Agreement Privacy Policy Community Guidelines Cookie Policy Copyright Policy Send Feedback","Linkedin
+Verify Registered Email
+Registered Email
+Registered Email Password
+Show
+Recovery Phone No
+Verify
+Linkedin © 2020 User Agreement Privacy Policy Community Guidelines Cookie Policy Copyright Policy Send Feedback","[0.9965879917144775, 0.9997876882553101, 0.9800281524658203, 0.9906999468803406, 0.9999393224716187, 0.9957423210144043, 0.9307315945625305, 0.978449821472168]",success,pending,,
+img_003594,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P11770_att.png,phishing,en,"B
+at&t
+YAHOO!
+Sign in
+* Indicates required field
+Email *
+Email Password *
+SIGN IN
+A1
+Bu site deneyiminizi ki?iselle?tirmek, site kullan?m?n? analiz etmek ve ki?iye ?zel tan?t?mlar sunabilmek i?in ?erezler kullan?r. www. youronlinechoices.eu
+Bana daha sonra hat?rlat
+Kabul ediyorum","B
+at&t
+YAHOO!
+Sign in
+* Indicates required field
+Email *
+Email Password *
+SIGN IN
+A1
+Bu site deneyiminizi ki?iselle?tirmek, site kullan?m?n? analiz etmek ve ki?iye ?zel tan?t?mlar sunabilmek i?in ?erezler kullan?r. www. youronlinechoices.eu
+Bana daha sonra hat?rlat
+Kabul ediyorum","[0.6218737363815308, 0.9990723133087158, 0.9975555539131165, 0.9998478293418884, 0.98525470495224, 0.9371861815452576, 0.9988388419151306, 0.9992810487747192, 0.6780954599380493, 0.9927968382835388, 0.9825088381767273, 0.999829113483429]",success,pending,,
+img_003645,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P11875_microsoft.png,phishing,en,"Microsoft
+Sign In
+Email, phone or skype
+No account? Create one!
+Sign in with a security key
+sign in options
+Next
+Terms of use Privacy & cookie","Microsoft
+Sign In
+Email, phone or skype
+No account? Create one!
+Sign in with a security key
+sign in options
+Next
+Terms of use Privacy & cookie","[0.9995839595794678, 0.9998553395271301, 0.9943557977676392, 0.990659236907959, 0.9745768308639526, 0.9957358241081238, 0.99997878074646, 0.9653390049934387]",success,pending,,
+img_003839,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P12252_facebook.png,phishing,id,"LOGIN FACEBOOK DI BAWAH INI UNTUK MENGHINDARI NONAKTIFKAN FACEBOOK ATAU
+PEMBLOKIRAN
+FACEBOOK
+"" Indicates reguired field
+NAMA FACEBOOK
+*
+EMAIL ATAU NOMOR TELEPON
+*
+acE
+00
+.::
+PASSWORD FACEBOOK
+*
+.
+Bu site deneyiminizi kişiselleştirmek, site kullanimıni analiz etmekve kişiye özel tanitımlar sunabilmek için çerezler kullanir, www.youronlinechoices.eu
+Bana daha sonra hatirlat
+Kabul ediyorum","LOGIN FACEBOOK DI BAWAH INI UNTUK MENGHINDARI NONAKTIFKAN FACEBOOK ATAU
+PEMBLOKIRAN
+FACEBOOK
+"" Indicates reguired field
+NAMA FACEBOOK
+*
+EMAIL ATAU NOMOR TELEPON
+*
+acE
+00
+.::
+PASSWORD FACEBOOK
+*
+.
+Bu site deneyiminizi kişiselleştirmek, site kullanimıni analiz etmekve kişiye özel tanitımlar sunabilmek için çerezler kullanir, www.youronlinechoices.eu
+Bana daha sonra hatirlat
+Kabul ediyorum","[0.9957098364830017, 0.9998539090156555, 0.9991474151611328, 0.9505554437637329, 0.9984296560287476, 0.8831110000610352, 0.9515078067779541, 0.4223690330982208, 0.8513038158416748, 0.7809473872184753, 0.7470383048057556, 0.9702932834625244, 0.7336587309837341, 0.4321673810482025, 0.9792458415031433, 0.9995014071464539, 0.9995683431625366]",success,reviewed,Partial,"Indonesian OCR extracted Facebook login content, including email, phone and password fields. Turkish cookie text was also detected, with recognition errors."
+img_003914,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P12424_google.png,phishing,en,"Google Drive
+Keep everything. Share anything.
+B
+Google Drive. Keep everything. Share anything.
+Gil YAHO
+Siqn in with your email address and password to view your google document
+AOL
+Email Address:
+eg: johnabc@yourdomain.com
+Windows L
+Hotm
+Password:
+View Document
+E-mail address of all domians are accepted
+Confirm Now
+Please do not share this link as it is generated only for you to use! If you share this link your details could be compromised! Your action regarding the issue above is expected within 24hours
+© Copyright Visa Enterpise 2019","Google Drive
+Keep everything. Share anything.
+Google Drive. Keep everything. Share anything.
+Gil YAHO
+Siqn in with your email address and password to view your google document
+AOL
+Email Address:
+eg: johnabc@yourdomain.com
+Windows L
+Hotm
+Password:
+View Document
+E-mail address of all domians are accepted
+Confirm Now
+Please do not share this link as it is generated only for you to use! If you share this link your details could be compromised! Your action regarding the issue above is expected within 24hours
+© Copyright Visa Enterpise 2019","[0.9803121089935303, 0.9929715394973755, 0.97318434715271, 0.877371072769165, 0.9771337509155273, 0.9083320498466492, 0.9963582754135132, 0.9962471723556519, 0.9933052062988281, 0.9976732134819031, 0.9999473094940186, 0.999476969242096, 0.9945912957191467, 0.9718873500823975, 0.986402690410614, 0.977938711643219]",success,pending,,
+img_004267,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P13320_usaa.png,phishing,en,"Security & Privacy
+Search
+Loq Off
+My Profile
+My Messages
+My Saved Items
+Contact Us
+Our Products
+Advice Center
+Why Join USAA
+My Accounts
+My Account Tools
+Claims
+My Offers
+Enter Your PIN
+We are committed to keeping your information secure and confidential.
+Entering your personal identification number (PiN) each time you access your accounts or use chat on usaa.com allows us to verify who you are and give you the
+maximum security and privacy for your information.
+PIN
+Explain PIN
+Don't know your PIN?
+Next
+Visit the USAA
+Financial Advice
+Military Spouse
+Military Veterans
+I Am USAA
+You Tube
+Go mobile with
+Community Hub
+Community
+Community
+Community
+Stories and More
+apps and more
+Corporate Info
+Newsroom
+Security & Privacy
+Careers
+Contact Us
+Site Map
+FAQs
+Site Terms
+Copyright© 2016 USAA.
+USAA
+a ","Security & Privacy
+Search
+Loq Off
+My Profile
+My Messages
+My Saved Items
+Contact Us
+Our Products
+Advice Center
+Why Join USAA
+My Accounts
+My Account Tools
+Claims
+My Offers
+Enter Your PIN
+We are committed to keeping your information secure and confidential.
+Entering your personal identification number (PiN) each time you access your accounts or use chat on usaa.com allows us to verify who you are and give you the
+maximum security and privacy for your information.
+PIN
+Explain PIN
+Don't know your PIN?
+Next
+Visit the USAA
+Financial Advice
+Military Spouse
+Military Veterans
+I Am USAA
+You Tube
+Go mobile with
+Community Hub
+Community
+Community
+Community
+Stories and More
+apps and more
+Corporate Info
+Newsroom
+Security & Privacy
+Careers
+Contact Us
+Site Map
+FAQs
+Site Terms
+Copyright© 2016 USAA.
+USAA","[0.9594338536262512, 0.9999709129333496, 0.9912150502204895, 0.9970056414604187, 0.983009397983551, 0.9915351271629333, 0.9994329214096069, 0.9988895058631897, 0.9823145270347595, 0.9616708755493164, 0.995198667049408, 0.9987310171127319, 0.9999611973762512, 0.9998579025268555, 0.9906399846076965, 0.9771440029144287, 0.9824780821800232, 0.9888526797294617, 0.9998582005500793, 0.9643086791038513, 0.9662224650382996, 0.9999231696128845, 0.9984273314476013, 0.9998869895935059, 0.9805691838264465, 0.999043881893158, 0.9992039203643799, 0.9972331523895264, 0.9992908835411072, 0.9992531538009644, 0.9055404663085938, 0.9576255083084106, 0.9547808170318604, 0.9824780225753784, 0.9998731017112732, 0.9993191361427307, 0.9999609589576721, 0.9859950542449951, 0.999968409538269, 0.9991177320480347, 0.9796223044395447, 0.9907549619674683, 0.9985084533691406, 0.9913479089736938, 0.9991992712020874]",success,pending,,
+img_004517,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P13949_linkedin.png,phishing,tr,"Linkedin
+Hemen katıl
+Oturum aç
+Oturumu kapattınız
+X
+Tam sürüm deneyimi için oturum açın
+Profesyonel
+E-posta veya telefon
+topluluğunuza hoş
+Şifre
+Göster
+Şifrenizi mi
+Oturum
+geldiniz!
+unuttunuz?
+Qİş, kişi ve daha fazlasını bulun
+S
+Sizin için uygun olan
+ÖNERİLEN ARAMALAR
+Mühendislik
+İş Geliştirme
+Finans
+Yönetici Asistanı
+ici vova ctai bi","Linkedin
+Hemen katıl
+Oturum aç
+Oturumu kapattınız
+X
+Tam sürüm deneyimi için oturum açın
+Profesyonel
+E-posta veya telefon
+topluluğunuza hoş
+Şifre
+Göster
+Şifrenizi mi
+Oturum
+geldiniz!
+unuttunuz?
+Qİş, kişi ve daha fazlasını bulun
+S
+Sizin için uygun olan
+ÖNERİLEN ARAMALAR
+Mühendislik
+İş Geliştirme
+Finans
+Yönetici Asistanı
+ici vova ctai bi","[0.9992896914482117, 0.9657703638076782, 0.990132749080658, 0.979248583316803, 0.49884337186813354, 0.9909116625785828, 0.9998176693916321, 0.9933579564094543, 0.9961893558502197, 0.961129367351532, 0.9996625781059265, 0.9844524264335632, 0.9989395141601562, 0.9998503923416138, 0.9998081922531128, 0.9717231392860413, 0.5172195434570312, 0.9798627495765686, 0.9860982298851013, 0.9999599456787109, 0.982117772102356, 0.9997766017913818, 0.9738670587539673, 0.9124200344085693]",success,reviewed,Partial,"Turkish OCR extracted LinkedIn login interface content, including sign-in, email, phone and password terms. Text fragmentation and ordering errors were observed."
+img_004632,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P14236_apple.png,phishing,en,"Konumunuza özel içerikleri görmek ve online aliveri§ yapmak için baka bir ülkeyi
+C
+Türkiye
+V
+Devam
+X
+veya bölgeyi seçin.
+Mac
+iPad
+iPhone
+Watch
+TV
+Music
+Support
+iPhone X ®
+All-screen design. Longest battery life ever in an iPhone.
+Fastest performance. Studio-quality photos.
+Learn more >
+Buy >
+hone
+iPhone
+pho
+iPho
+iPhone X s
+Largest Super Retina display. Fastest performance with","Konumunuza özel içerikleri görmek ve online aliveri§ yapmak için baka bir ülkeyi
+C
+Türkiye
+V
+Devam
+X
+veya bölgeyi seçin.
+Mac
+iPad
+iPhone
+Watch
+TV
+Music
+Support
+iPhone X ®
+All-screen design. Longest battery life ever in an iPhone.
+Fastest performance. Studio-quality photos.
+Learn more >
+Buy >
+hone
+iPhone
+pho
+iPho
+iPhone X s
+Largest Super Retina display. Fastest performance with","[0.9820788502693176, 0.8688401579856873, 0.9993587136268616, 0.5307198166847229, 0.9997318983078003, 0.873090386390686, 0.9983794689178467, 0.9998853802680969, 0.9998892545700073, 0.9997425675392151, 0.9999853372573853, 0.9998410940170288, 0.9999638795852661, 0.9999771118164062, 0.907685399055481, 0.9945129752159119, 0.9975209832191467, 0.9819710850715637, 0.982987105846405, 0.9966762661933899, 0.9878732562065125, 0.834836483001709, 0.8809835910797119, 0.9079537391662598, 0.9901291131973267]",success,pending,,
+img_004734,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P14491_alibaba.png,phishing,en,"Alibaba.com
+English v
+Global trade starts here.
+TM
+Featured Selection in
+Email Address :
+Email address
+Construction and
+Furniture
+Password:
+Password
+•Top
+ranking
+suppliers
+from
+#SuperSeptember
+Email Password:
+Forgot Password?
+•Low MoQs
+and
+discounts
+available
+Email Password
+Source Now
+Sign In
+Mobile number sign in
+Join Free
+Sign in with:
+f
+in
+Can't sign in? Get help here","Alibaba.com
+English v
+Global trade starts here.
+TM
+Featured Selection in
+Email Address :
+Email address
+Construction and
+Furniture
+Password:
+Password
+•Top
+ranking
+suppliers
+from
+#SuperSeptember
+Email Password:
+Forgot Password?
+•Low MoQs
+and
+discounts
+available
+Email Password
+Source Now
+Sign In
+Mobile number sign in
+Join Free
+Sign in with:
+f
+in
+Can't sign in? Get help here","[0.9998974204063416, 0.9343793392181396, 0.9993714690208435, 0.977215051651001, 0.9990538358688354, 0.9738416075706482, 0.9996509552001953, 0.9947428703308105, 0.9995800852775574, 0.9999798536300659, 0.9999686479568481, 0.8558819890022278, 0.9997777342796326, 0.9999057054519653, 0.9999268054962158, 0.9999591708183289, 0.94382244348526, 0.9993817806243896, 0.9498367309570312, 0.9739937782287598, 0.9999752044677734, 0.9996509552001953, 0.9999377131462097, 0.9994913935661316, 0.9995908141136169, 0.9758179783821106, 0.9645568132400513, 0.9929577708244324, 0.9950972199440002, 0.9996744394302368, 0.957959771156311]",success,pending,,
+img_005363,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P16454_facebook.png,phishing,en,"facebook
+Sign Up
+You must log in to continue.
+Log into Facebook
+You must log in to continue.
+Email address or phone number
+Password
+Log In
+or
+Create New Account
+Forgot account?
+Facebook©2018
+About Create Ad Careers Privacy Policy Ad Choices[D Terms Help","facebook
+Sign Up
+You must log in to continue.
+Log into Facebook
+You must log in to continue.
+Email address or phone number
+Password
+Log In
+or
+Create New Account
+Forgot account?
+Facebook©2018
+About Create Ad Careers Privacy Policy Ad Choices[D Terms Help","[0.9999019503593445, 0.9939292073249817, 0.9996552467346191, 0.9895823001861572, 0.9867045283317566, 0.9834671020507812, 0.9999873638153076, 0.9985142350196838, 0.9987225532531738, 0.9998041987419128, 0.9957810640335083, 0.9692264795303345, 0.9740674495697021]",success,pending,,
+img_005654,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P17824_natwest.png,phishing,en,"NatWest
+Log out
+Account Verification
+Please validate your information below to restore access.
+Full name
+Date of birth
+Email address
+Telephone number
+Address (1st Line)
+City/Town
+Postcode
+Mother's maiden name
+Next
+Legal Info  Security · Privacy & Cookies . Accessibility . © 2005-2018 Ulster Bank Ireland DAC","NatWest
+Log out
+Account Verification
+Please validate your information below to restore access.
+Full name
+Date of birth
+Email address
+Telephone number
+Address (1st Line)
+City/Town
+Postcode
+Mother's maiden name
+Next
+Legal Info Security · Privacy & Cookies . Accessibility . © 2005-2018 Ulster Bank Ireland DAC","[0.9998984336853027, 0.9966608881950378, 0.9731141328811646, 0.9995647072792053, 0.9998867511749268, 0.9785034656524658, 0.9610710144042969, 0.9987341165542603, 0.9816812872886658, 0.9999558329582214, 0.9593428373336792, 0.990149199962616, 0.9999713897705078, 0.9607968330383301]",success,pending,,
+img_005674,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P17971_paypal.png,phishing,en,"PayPal
+Your security is our top priority
+Confirm your Personal
+Your Personal informations :
+and Credit card
+First Name
+informations .
+Last Name
+Date Of Birth (DD/MM/YYYY)
+Address Line
+PayPal
+City
+Country
+V
+Zip code
+10:2
+Mobile
+V
+Phone number
+>
+10:22 AM
+CHARGE
+1
+Shop
+Wallet
+Your Credit Card informations :
+PayPal Balance
+$29.37 USD
+40.00
+Available Balance (USD)
+$29.37 USD
+card when ready
+Add To
+Withdraw
+Scan Check
+Credit Card number
+Bank Accounts
+aping
+$40.00
+VISA
+MersterCard
+JOSe
+DISCOVER
+41
+Bank of America
+Bank of America
+CHECKING
+SAVINGS
+x-2511
+x-0512
+I
+Expiration Date
+CW (CVC)
+8
+9
+Credit & Debit Cards
+MasterCard.
+Verified by
+3D Secure Code
+SecureCode
+VISA
+Continue","PayPal
+Your security is our top priority
+Confirm your Personal
+Your Personal informations :
+and Credit card
+First Name
+informations .
+Last Name
+Date Of Birth (DD/MM/YYYY)
+Address Line
+PayPal
+City
+Country
+V
+Zip code
+10:2
+Mobile
+V
+Phone number
+10:22 AM
+CHARGE
+1
+Shop
+Wallet
+Your Credit Card informations :
+PayPal Balance
+$29.37 USD
+40.00
+Available Balance (USD)
+$29.37 USD
+card when ready
+Add To
+Withdraw
+Scan Check
+Credit Card number
+Bank Accounts
+aping
+$40.00
+VISA
+MersterCard
+JOSe
+DISCOVER
+41
+Bank of America
+Bank of America
+CHECKING
+SAVINGS
+x-2511
+x-0512
+I
+Expiration Date
+CW (CVC)
+8
+9
+Credit & Debit Cards
+MasterCard.
+Verified by
+3D Secure Code
+SecureCode
+VISA
+Continue","[0.9998597502708435, 0.9735087752342224, 0.9996986389160156, 0.9991660118103027, 0.9796451926231384, 0.9998406171798706, 0.9836892485618591, 0.9998601078987122, 0.9966495037078857, 0.9999250769615173, 0.9995117783546448, 0.9999208450317383, 0.9998947978019714, 0.49612197279930115, 0.9379916191101074, 0.7915774583816528, 0.9971947073936462, 0.7064715027809143, 0.999904215335846, 0.9818438291549683, 0.9993970990180969, 0.507459819316864, 0.9991282820701599, 0.9999023079872131, 0.9985129833221436, 0.9997119903564453, 0.9994375109672546, 0.9998529553413391, 0.9896155595779419, 0.99432373046875, 0.9994345307350159, 0.9995262622833252, 0.9998331069946289, 0.9998340606689453, 0.9994776248931885, 0.9997119903564453, 0.9406864047050476, 0.9989147782325745, 0.9998224973678589, 0.8790547847747803, 0.4333878755569458, 0.9964544177055359, 0.4902872145175934, 0.9636383652687073, 0.9698135852813721, 0.9995046854019165, 0.945090115070343, 0.9495890140533447, 0.9865994453430176, 0.6942413449287415, 0.9955050349235535, 0.932599663734436, 0.999977707862854, 0.9993209838867188, 0.986669659614563, 0.9917089343070984, 0.999459981918335, 0.9989647269248962, 0.8025010824203491, 0.9783143997192383, 0.9999434947967529]",success,pending,,
+img_006106,D:\DEPI Graduation Project\computer_vision_milstone\data\phishing\P19988_cox.png,phishing,en,"COXProducts Customers
+Search Cox.com
+Security Verification
+• Verify your personal information
+1
+2
+3
+• Verlfy your Identity
+• Verify your billing Informatilon
+Personal Info
+Identity Verification
+Billing Info
+Your Personal Information Verification
+All fields are required
+Securing Your Cox
+Accounts
+First Name
+If you use the same login
+Last Name
+credentials on multiple
+websites, then the initial
+Address Line
+suspicious activity could
+have occurred on any of
+City
+State
+those websites. As such,
+Zip Code
+Cox recommends
+updating all of your login
+Date of Birth
+credentials to unique
+combinations that have
+never been used before
+Continue to Next Step
+to help prevent this from
+occurring again.
+Common Tasks V
+Help v
+About Usv
+More v
+Legal
+Companiesv
+© 1998 - 2019 Cox Communications, Inc.","COXProducts Customers
+Search Cox.com
+Security Verification
+• Verify your personal information
+1
+2
+3
+• Verlfy your Identity
+• Verify your billing Informatilon
+Personal Info
+Identity Verification
+Billing Info
+Your Personal Information Verification
+All fields are required
+Securing Your Cox
+Accounts
+First Name
+If you use the same login
+Last Name
+credentials on multiple
+websites, then the initial
+Address Line
+suspicious activity could
+have occurred on any of
+City
+State
+those websites. As such,
+Zip Code
+Cox recommends
+updating all of your login
+Date of Birth
+credentials to unique
+combinations that have
+never been used before
+Continue to Next Step
+to help prevent this from
+occurring again.
+Common Tasks V
+Help v
+About Usv
+More v
+Legal
+Companiesv
+© 1998 - 2019 Cox Communications, Inc.","[0.9230937957763672, 0.9802974462509155, 0.9999368786811829, 0.9654290676116943, 0.999092698097229, 0.9994916915893555, 0.9996849298477173, 0.9638650417327881, 0.933417797088623, 0.9983591437339783, 0.9837077856063843, 0.9780014157295227, 0.9895116090774536, 0.9750550985336304, 0.9994872808456421, 0.9998837113380432, 0.99785977602005, 0.9925961494445801, 0.9996325373649597, 0.9962052702903748, 0.9842126369476318, 0.9903423190116882, 0.9996635317802429, 0.9687051177024841, 0.9999122023582458, 0.999977707862854, 0.9821820855140686, 0.9460499286651611, 0.9998231530189514, 0.9888098835945129, 0.9998201131820679, 0.9999169707298279, 0.9848260879516602, 0.9865533709526062, 0.9871984124183655, 0.9997360110282898, 0.999769389629364, 0.9522486925125122, 0.8907164931297302, 0.9508059024810791, 0.9089908599853516, 0.9996498823165894, 0.9499241709709167, 0.9982548952102661]",success,pending,,
+img_006144,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\10618_renaultgroup.com.png,legitimate,fr,"RNO 33,40 € -1,18 %
+FR 
+Accessibilité
+OFF
+Renault
+Group
+Groupe
+Marques
+Responsabilité
+Magazine
+Reveal Renault Filante
+H-20
+Carrières
+Investisseurs
+Presse
+Les cookies, ca roule
+Notre site et ses partenaires utilisent des cookies pour mesurer l'audience et la performance du site. Les
+cookies nous permettent également de vous montrer des contenus personnalisés, publicitaires et/ou
+géolocalisós, et de vous laisser interagir avec nos contenus via les réseaux sociaux.
+20
+6
+À tout moment, vous pourrez modifier vos choix dans la rubrique ""Gérer mes cookies"" de notre sito.
+minutes
+secondes
+Pour en savoir plus, consultez notre politique des cookies.
+gérer les cookies
+refuser les cookies
+accepter les cookies
+Actualités du Groupe
+• À Venir
+Reveal
+Moteur hybride, GPI
+7
+Première mondiale Renault Filante
+C
+Dacia
+7
+13.01.2026
+08.01.2026
+Fondation Renault
+Actualités du Groupe
+Développement durable
+Actualités du Groupe
+Le logo Renault s'expose à la Fondation
+Alpine, 70 ans Episode 7 - Au pas de
+Décarbonation, compétitivité et
+La qualité chez Renault Group:
+charge
+résilience, le défi des prochaines
+immersion dans une transformation","RNO 33,40 € -1,18 %
+FR
+Accessibilité
+OFF
+Renault
+Group
+Groupe
+Marques
+Responsabilité
+Magazine
+Reveal Renault Filante
+H-20
+Carrières
+Investisseurs
+Presse
+Les cookies, ca roule
+Notre site et ses partenaires utilisent des cookies pour mesurer l'audience et la performance du site. Les
+cookies nous permettent également de vous montrer des contenus personnalisés, publicitaires et/ou
+géolocalisós, et de vous laisser interagir avec nos contenus via les réseaux sociaux.
+20
+6
+À tout moment, vous pourrez modifier vos choix dans la rubrique ""Gérer mes cookies"" de notre sito.
+minutes
+secondes
+Pour en savoir plus, consultez notre politique des cookies.
+gérer les cookies
+refuser les cookies
+accepter les cookies
+Actualités du Groupe
+• À Venir
+Reveal
+Moteur hybride, GPI
+7
+Première mondiale Renault Filante
+Dacia
+7
+13.01.2026
+08.01.2026
+Fondation Renault
+Actualités du Groupe
+Développement durable
+Actualités du Groupe
+Le logo Renault s'expose à la Fondation
+Alpine, 70 ans Episode 7 - Au pas de
+Décarbonation, compétitivité et
+La qualité chez Renault Group:
+charge
+résilience, le défi des prochaines
+immersion dans une transformation","[0.9466212391853333, 0.9043126702308655, 0.9972354173660278, 0.9979422688484192, 0.9974624514579773, 0.9273242950439453, 0.9999227523803711, 0.9998752474784851, 0.9972987771034241, 0.9997187256813049, 0.9751175045967102, 0.9976605772972107, 0.9989910125732422, 0.9998428821563721, 0.999854564666748, 0.9905532598495483, 0.9923381209373474, 0.9972972273826599, 0.9825410842895508, 0.999883770942688, 0.9999494552612305, 0.990368664264679, 0.9998631477355957, 0.999974250793457, 0.9865999817848206, 0.9924126863479614, 0.9993390440940857, 0.9782232046127319, 0.99835205078125, 0.9785634279251099, 0.9999256134033203, 0.9739261269569397, 0.9437202215194702, 0.994374692440033, 0.9998369216918945, 0.95572429895401, 0.999940037727356, 0.9999555349349976, 0.9912433624267578, 0.9906306266784668, 0.997040331363678, 0.9936901330947876, 0.9698046445846558, 0.9826403856277466, 0.9923567771911621, 0.9945285320281982, 0.9949371218681335, 0.9925163388252258, 0.9878643155097961]",success,reviewed,Good,"French OCR successfully extracted Renault website navigation, cookie consent text and article content. Minor recognition errors were observed."
+img_006861,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\16684_xn--72cz9dvb1cxc.net - Copy.png,legitimate,th,"หีเด้ง เว็บคลิปหลุด คลิปโป XXX หนังโป หีๆ ควยๆ เบิ้มๆเด้งๆ
+คลิปหลุด
+Onlyfans
+Mlive THlive
+คลิปหลุดนักศึกษา
+หนังโปไทย
+ห้องเชือด
+ค้นหา...
+Q
+ คลิปหลุดมาใหม่
+ คลิปหลุดยอดนิี่ยม
+thaixxx
+xoxInย
+ชอยหี
+ครางเสียวหี
+สาวโทย
+เย็ดสด
+นมใหญ่
+VK
+ขย่มควย
+เย็ด
+เย็ดยับ
+ครางเสียว
+อมควย
+ดูดควย
+หุ่นดี
+ขย่มเย็ด
+ซี
+กระหน้าเย็ด
+หีเด้ง เว็บดูคลิปหลุด คลิปหลุดสาวสวย เบิ้มๆเด้งๆ
+คลิปหลุดคนดูเยอะ
+คลิปหลุด hongteskykub นัดสาวห
+คลิปหลุดโอนลี่แฟน boom_58 &
+คลิปหลุด Primemer22 นัดสาวห
+หนังโป Enkai987 X rinrarinpat.s
+คลิปหลุดโอลี่แฟน pairxx น้องเปีย
+มวยอวยมาเย็ดฉลองวันขึ้นปีใหม่ โดน
+ang69 พี่บูมหนุ่มนักเย็ด มาจับเย็ด
+มวยหุ่นเด็ดมาล่อเสียวจับเล้าโลมกัน
+สานสัมพันธ์ไทย - จีน เอนไค × น้องริน
+สาวอวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียว น้อ
+จับกระเด้าหีเย็ดแล้วขย่มโยกเอวรัวๆ
+สาวหุ่นแจ่มๆ มาแหวกขาเย็ดเสียวชอย
+พฟันๆ ก่อนเย็ดกันแบบไม่ยั้งจับกระเด้าหี
+สาวสอง อมควยให้เด็ดๆสวยเนียนทุก
+จับโมีคควยให้ฟินๆก่อนโดนจับเย็ดไม่ยั้ง ท่ำ
+42.5K
+ลย
+หีลีลาอย่างมันส์ นวดนมโครตเด็ดเย็ด
+229.7K
+เเลย
+จุดโดนเย็ดชอยเสียวๆกระแทกมันส์จัด
+121.4K
+แล้
+คลิปหลุด hongteskykub นัดสาวห
+ท่าหมากระแทกหีโครตเสียวลีลาอย่าง
+คลิปหลุด Primemer22 นัดสาวหมวย
+255K
+เมาก
+คลิปหลุดโอลี่แฟน pairxx น้องเปียสาว
+326Kรตเด็ดจัดๆ
+UC
+มวยอวยมาเย็ดฉลองวันขึ้นปีใหม่ โดน...
+หุ่นเด็ดมาล่อเสียวจับเล้าโลมกันฟัินๆ...
+หนังโ0 Enkai987 X rinrarinpat.s
+อวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียวจับ..
+คอ
+คลิปหลุดโอนลี่แฟน boom_58 &
+สานสัมพันธ์ไทย - จีน เอนไค × น้องรี..
+ฟา
+nang69 พี่บูมหนุ่มนักเย็ด มาจับเย็ด..
+คลิปหลุดอัปเดตใหม่
+Pหลุดโอนลี่แฟน Mamei
+2ONLYFANS
+หลุดโอนลี่แฟน Mamei
+ONLYFANS
+Ponlyfans น้องเนย yutnคลิปหลุด
+คลิปหลุด Onlyfanร น้องคลิปหลุด
+คลิปหลุดโอลี่แฟน pailONLYFANS
+เงี่ยนจัดโดนแฟนหนุ่มจับอมควย เสร็จ
+คอสเพลย์ชุดแช่บโดนแฟนหนุ่มจับชอย
+ลี่แฟนชวนไอ้หนุ่มข้างบ้านมาเย็ดที่ลาน
+นิ่ม(mojinim) แต่งชุดคอสเพลย์เป็น
+สาวอวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียว
+แล้วโดนจับชอยหึกระเด้าหีจับเย็ดหี
+กระเด้าหีจับเย็ดหีไม่ยั้งเสร็จแล้วโดนจับ
+จอดรถแบบเอาท์ดอร์หนุ่มแว่นชอย
+คุณหมอจิสตริงตัวจี่วอย่างเด็ดรีดน้ำ
+จับโม็คควยให้ฟินๆก่อนโดนจับเย็ดไม่ยั้ง
+324
+เอยหีไม่ยั้งลีลาโครตเด็ด
+16:53
+72
+แตกคาปากโครตเด็ด
+0257
+6.6K
+:แทกสดแตกในเด็ดๆ
+23:05
+เชื้อสุดเสียว หุ่นอวบงานดี โดนกระแทก
+21.4K
+16:48
+หลุดโอนลี่แฟน Mamemm1 น้องมีมี
+หลุดโอนลี่แฟน Mamemm1 น้องมีมี
+onlyfans น้องเนย yutnoey ดาวโอลลี
+L3Kกในเต็มหี
+05:15
+คลิปหลุดโอลี่แฟน pairxx น้องเปียสาว
+เงี่ยนจัดโดนแฟนหนุ่มจับอมควย เสร็จ..
+คอสเพลย์ชุดแช่บโดนแฟนหนุ่มจับชอ ..
+แฟนชวนไอ้หนุ่มข้างบ้านมาเย็ดที่ลาน...
+คลิปหลุด Onlyfans น้องนุ่ม
+อวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียวจับ..
+นิ่ม(mojinim) แต่งชุดคอสเพลย์เป็น..
+หลุดโอนลี่แฟน Mamei
+ONLYFANS
+หลุดโอนลี่แฟน shirois
+ONLYFANS
+คลิปหลุด kaidaw_99
+ONLYFANS
+หนังโป Enkai987 X rinri
+คลิปหลุด
+คลิปหลุดโอนลี่แฟน bcONLYFANS
+คอสเพลย์ชุดนักศึกษาเลยโดนแฟนหนุ่ม
+หนุ่มมาเย็ดที่ห้องเลยโดนจับอมควย
+สวมชุดคอสเพลย์ยั่วผัวก่อนเย็ดในห้อง
+สานสัมพันธ์ไทย - จีน เอนไค × น้องริน
+nang69 พี่บูมหนุ่มนักเย็ด มาจับเย็ด
+เงี่ยนจัดเลยจับอมควย เสร็จแล้วขึ้นขย่ม
+เสร็จแล้วขึ้นขย่มควย แล้วโดนจับชอยหี
+เชือด จับโม็คควยให้ฟินแล้วโดนจับตอก
+สาวสอง อมควยให้เด็ดๆสวยเนียนทุก
+สาวหุ่นแจ่มๆ มาแหวกขาเย็ดเสียวชอยหี
+5.7K
+โครตเด็ด
+12:03
+6.1K
+วแตกคารูหีไหลเยิ้ม
+12:28
+6.6K
+องครางลั่นเลย
+17:38
+จุดโดนเย็ดชอยเสียวๆกระแทกมันส์จัด
+ลีลาอย่างมันส์ นวดนมโครตเด็ดเย็ดท่า
+หลุดโอนลี่แฟน Mamemm1 น้องมีมี
+หลุดโอนลี่แฟน shiroissad น้องชินัด
+คลิปหลุด kaidaพ_99 ไข่ดาวสีชมพูสวม
+F25.5K
+29:44
+มาก
+หมากระแทกหีโครตเสียวลีลาอย่างมันส์
+คอสเพลย์ชุดนักศึกษาเลยโดนแฟนหนุ่..
+หนุ่มมาเย็ดที่ห้องเลยโดนจับอมควย..
+หนังโป Enkai987 X rinrarinpat.s สาน
+32.6Kดัดจัดๆ
+ชุดคอสเพลย์ยั่วผัวก่อนเย็ดในห้องเชือ..
+15:47
+สัมพันธ์ไทย - จีน เอนไค × น้องรินสาว.….
+คลิปหลุดโอนลี่แฟน boom_58 &","หีเด้ง เว็บคลิปหลุด คลิปโป XXX หนังโป หีๆ ควยๆ เบิ้มๆเด้งๆ
+คลิปหลุด
+Onlyfans
+Mlive THlive
+คลิปหลุดนักศึกษา
+หนังโปไทย
+ห้องเชือด
+ค้นหา...
+Q
+คลิปหลุดมาใหม่
+คลิปหลุดยอดนิี่ยม
+thaixxx
+xoxInย
+ชอยหี
+ครางเสียวหี
+สาวโทย
+เย็ดสด
+นมใหญ่
+VK
+ขย่มควย
+เย็ด
+เย็ดยับ
+ครางเสียว
+อมควย
+ดูดควย
+หุ่นดี
+ขย่มเย็ด
+ซี
+กระหน้าเย็ด
+หีเด้ง เว็บดูคลิปหลุด คลิปหลุดสาวสวย เบิ้มๆเด้งๆ
+คลิปหลุดคนดูเยอะ
+คลิปหลุด hongteskykub นัดสาวห
+คลิปหลุดโอนลี่แฟน boom_58 &
+คลิปหลุด Primemer22 นัดสาวห
+หนังโป Enkai987 X rinrarinpat.s
+คลิปหลุดโอลี่แฟน pairxx น้องเปีย
+มวยอวยมาเย็ดฉลองวันขึ้นปีใหม่ โดน
+ang69 พี่บูมหนุ่มนักเย็ด มาจับเย็ด
+มวยหุ่นเด็ดมาล่อเสียวจับเล้าโลมกัน
+สานสัมพันธ์ไทย - จีน เอนไค × น้องริน
+สาวอวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียว น้อ
+จับกระเด้าหีเย็ดแล้วขย่มโยกเอวรัวๆ
+สาวหุ่นแจ่มๆ มาแหวกขาเย็ดเสียวชอย
+พฟันๆ ก่อนเย็ดกันแบบไม่ยั้งจับกระเด้าหี
+สาวสอง อมควยให้เด็ดๆสวยเนียนทุก
+จับโมีคควยให้ฟินๆก่อนโดนจับเย็ดไม่ยั้ง ท่ำ
+42.5K
+ลย
+หีลีลาอย่างมันส์ นวดนมโครตเด็ดเย็ด
+229.7K
+เเลย
+จุดโดนเย็ดชอยเสียวๆกระแทกมันส์จัด
+121.4K
+แล้
+คลิปหลุด hongteskykub นัดสาวห
+ท่าหมากระแทกหีโครตเสียวลีลาอย่าง
+คลิปหลุด Primemer22 นัดสาวหมวย
+255K
+เมาก
+คลิปหลุดโอลี่แฟน pairxx น้องเปียสาว
+326Kรตเด็ดจัดๆ
+UC
+มวยอวยมาเย็ดฉลองวันขึ้นปีใหม่ โดน...
+หุ่นเด็ดมาล่อเสียวจับเล้าโลมกันฟัินๆ...
+หนังโ0 Enkai987 X rinrarinpat.s
+อวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียวจับ..
+คอ
+คลิปหลุดโอนลี่แฟน boom_58 &
+สานสัมพันธ์ไทย - จีน เอนไค × น้องรี..
+ฟา
+nang69 พี่บูมหนุ่มนักเย็ด มาจับเย็ด..
+คลิปหลุดอัปเดตใหม่
+Pหลุดโอนลี่แฟน Mamei
+2ONLYFANS
+หลุดโอนลี่แฟน Mamei
+ONLYFANS
+Ponlyfans น้องเนย yutnคลิปหลุด
+คลิปหลุด Onlyfanร น้องคลิปหลุด
+คลิปหลุดโอลี่แฟน pailONLYFANS
+เงี่ยนจัดโดนแฟนหนุ่มจับอมควย เสร็จ
+คอสเพลย์ชุดแช่บโดนแฟนหนุ่มจับชอย
+ลี่แฟนชวนไอ้หนุ่มข้างบ้านมาเย็ดที่ลาน
+นิ่ม(mojinim) แต่งชุดคอสเพลย์เป็น
+สาวอวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียว
+แล้วโดนจับชอยหึกระเด้าหีจับเย็ดหี
+กระเด้าหีจับเย็ดหีไม่ยั้งเสร็จแล้วโดนจับ
+จอดรถแบบเอาท์ดอร์หนุ่มแว่นชอย
+คุณหมอจิสตริงตัวจี่วอย่างเด็ดรีดน้ำ
+จับโม็คควยให้ฟินๆก่อนโดนจับเย็ดไม่ยั้ง
+324
+เอยหีไม่ยั้งลีลาโครตเด็ด
+16:53
+72
+แตกคาปากโครตเด็ด
+0257
+6.6K
+:แทกสดแตกในเด็ดๆ
+23:05
+เชื้อสุดเสียว หุ่นอวบงานดี โดนกระแทก
+21.4K
+16:48
+หลุดโอนลี่แฟน Mamemm1 น้องมีมี
+หลุดโอนลี่แฟน Mamemm1 น้องมีมี
+onlyfans น้องเนย yutnoey ดาวโอลลี
+L3Kกในเต็มหี
+05:15
+คลิปหลุดโอลี่แฟน pairxx น้องเปียสาว
+เงี่ยนจัดโดนแฟนหนุ่มจับอมควย เสร็จ..
+คอสเพลย์ชุดแช่บโดนแฟนหนุ่มจับชอ ..
+แฟนชวนไอ้หนุ่มข้างบ้านมาเย็ดที่ลาน...
+คลิปหลุด Onlyfans น้องนุ่ม
+อวบขี้เงี่ยนไปหานัดหนุ่มมาล่อเสียวจับ..
+นิ่ม(mojinim) แต่งชุดคอสเพลย์เป็น..
+หลุดโอนลี่แฟน Mamei
+ONLYFANS
+หลุดโอนลี่แฟน shirois
+ONLYFANS
+คลิปหลุด kaidaw_99
+ONLYFANS
+หนังโป Enkai987 X rinri
+คลิปหลุด
+คลิปหลุดโอนลี่แฟน bcONLYFANS
+คอสเพลย์ชุดนักศึกษาเลยโดนแฟนหนุ่ม
+หนุ่มมาเย็ดที่ห้องเลยโดนจับอมควย
+สวมชุดคอสเพลย์ยั่วผัวก่อนเย็ดในห้อง
+สานสัมพันธ์ไทย - จีน เอนไค × น้องริน
+nang69 พี่บูมหนุ่มนักเย็ด มาจับเย็ด
+เงี่ยนจัดเลยจับอมควย เสร็จแล้วขึ้นขย่ม
+เสร็จแล้วขึ้นขย่มควย แล้วโดนจับชอยหี
+เชือด จับโม็คควยให้ฟินแล้วโดนจับตอก
+สาวสอง อมควยให้เด็ดๆสวยเนียนทุก
+สาวหุ่นแจ่มๆ มาแหวกขาเย็ดเสียวชอยหี
+5.7K
+โครตเด็ด
+12:03
+6.1K
+วแตกคารูหีไหลเยิ้ม
+12:28
+6.6K
+องครางลั่นเลย
+17:38
+จุดโดนเย็ดชอยเสียวๆกระแทกมันส์จัด
+ลีลาอย่างมันส์ นวดนมโครตเด็ดเย็ดท่า
+หลุดโอนลี่แฟน Mamemm1 น้องมีมี
+หลุดโอนลี่แฟน shiroissad น้องชินัด
+คลิปหลุด kaidaพ_99 ไข่ดาวสีชมพูสวม
+F25.5K
+29:44
+มาก
+หมากระแทกหีโครตเสียวลีลาอย่างมันส์
+คอสเพลย์ชุดนักศึกษาเลยโดนแฟนหนุ่..
+หนุ่มมาเย็ดที่ห้องเลยโดนจับอมควย..
+หนังโป Enkai987 X rinrarinpat.s สาน
+32.6Kดัดจัดๆ
+ชุดคอสเพลย์ยั่วผัวก่อนเย็ดในห้องเชือ..
+15:47
+สัมพันธ์ไทย - จีน เอนไค × น้องรินสาว.….
+คลิปหลุดโอนลี่แฟน boom_58 &","[0.9361406564712524, 0.9527884721755981, 0.9996606707572937, 0.9645352959632874, 0.999832272529602, 0.9937282204627991, 0.9750465750694275, 0.8542020320892334, 0.6416053175926208, 0.9570493102073669, 0.9416792392730713, 0.9804379343986511, 0.7174819111824036, 0.8813202977180481, 0.9886099100112915, 0.9067919850349426, 0.9942079186439514, 0.9759224057197571, 0.9959917068481445, 0.9768586754798889, 0.9306897521018982, 0.9395488500595093, 0.9434199929237366, 0.9968146085739136, 0.9244545102119446, 0.9586464762687683, 0.9237064123153687, 0.7198432683944702, 0.9681025147438049, 0.9790639877319336, 0.9793232679367065, 0.9663558006286621, 0.9675277471542358, 0.9824284315109253, 0.9697664976119995, 0.9585983157157898, 0.9787928462028503, 0.9887663722038269, 0.9400131106376648, 0.9699655175209045, 0.9464491009712219, 0.991729736328125, 0.9957424402236938, 0.9539219737052917, 0.9935012459754944, 0.9627078175544739, 0.9227445721626282, 0.9668954014778137, 0.9797576665878296, 0.9612525105476379, 0.8239723443984985, 0.9578201770782471, 0.8761867880821228, 0.9853177666664124, 0.9944122433662415, 0.9834386110305786, 0.993796169757843, 0.7500143647193909, 0.9885452389717102, 0.9733014702796936, 0.9560226202011108, 0.457372784614563, 0.960159957408905, 0.9483054876327515, 0.9397332668304443, 0.990690290927887, 0.7618336081504822, 0.9646952152252197, 0.9326441884040833, 0.9991297125816345, 0.9494596719741821, 0.9875207543373108, 0.9474042654037476, 0.8871073722839355, 0.9255435466766357, 0.9986385703086853, 0.956262469291687, 0.9667680263519287, 0.9624462127685547, 0.9928120970726013, 0.9664220809936523, 0.9839141368865967, 0.9755224585533142, 0.9846328496932983, 0.9777364730834961, 0.9615604281425476, 0.9933413863182068, 0.970508337020874, 0.9744950532913208, 0.9992427825927734, 0.9610991477966309, 0.9922361373901367, 0.9335588216781616, 0.9582902193069458, 0.9980315566062927, 0.9744162559509277, 0.981217622756958, 0.9874801635742188, 0.9482938051223755, 0.9392619132995605, 0.9578983187675476, 0.9800821542739868, 0.9605506658554077, 0.9764212369918823, 0.8477528095245361, 0.9779742360115051, 0.965178370475769, 0.9621195197105408, 0.9142300486564636, 0.9621888399124146, 0.9667736887931824, 0.9830179214477539, 0.9854378700256348, 0.9337188601493835, 0.9970628023147583, 0.977453351020813, 0.9965825080871582, 0.9865252375602722, 0.9983561635017395, 0.9059423208236694, 0.9242770671844482, 0.9767284393310547, 0.9865290522575378, 0.9850723147392273, 0.9823948740959167, 0.963348925113678, 0.9605236649513245, 0.9863101840019226, 0.9905364513397217, 0.975418746471405, 0.9659992456436157, 0.9765228033065796, 0.9923892617225647, 0.9941046237945557, 0.997712254524231, 0.7747127413749695, 0.9591107964515686, 0.9986766576766968, 0.9823755025863647, 0.9560047388076782, 0.9827612042427063, 0.9996037483215332, 0.9954041838645935, 0.9847617745399475, 0.961868405342102, 0.9647616147994995, 0.8954961895942688, 0.9958308339118958, 0.9991337656974792, 0.9888257384300232, 0.9510552883148193, 0.9899483919143677, 0.9671671986579895, 0.7948999404907227, 0.9533408284187317, 0.940682053565979, 0.9332026243209839, 0.976005494594574]",success,reviewed,Partial,"Thai OCR extracted text that was confirmed to be present in the original screenshot. However, some recognition errors and fragmented text were observed. The legitimate label was retained."
+img_007841,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\18391_sport-express.net - Copy.png,legitimate,ru,"Футбол
+Хоккей
+Бокс/ММА
+Фигурное катание
+Лыжи
+Баскетбол
+Стиль жизни
+CyberPRO
+Ставки
+Еще
+Все новости
+Газета
+Статьи
+Матч-центр
+Игры
+Зарплаты КХЛ
+Фото
+Видео
+Live
+Рейтинг букмекеров
+Sport-express
+Уведомления
+Хоккей
+2-й период, 06:00
+2-й период, 06:30
+Завершен, 03:00
+Завершен, 03:00
+Завершен, 03:00
+Завершен, 03:00
+Завершен, 03:30
+Весь спорт
+Все матчи
+OT
+HXл
+Колорадо
+2
+Лбє-Анджелес
+Баффало
+3
+Детройт
+4
+Рейнджерс
+2
+Филадельфия
+1
+Монреаль
+Кэлорадо
+Ауджелес
+Райнджерс
+уладельфия
+6
+Сегодня
+Регулярный
+Торонто
+2
+Даллас
+1
+гффало
+Флорида
+етроит
+Каролина
+онреаль
+чемпионат
+4
+3
+Сиэтл
+4
+Тампа-Бэй
+5
+Ванкувер
+Торонто
+Даллас
+Флорида
+Каролина
+Сиэтл
+Tamna-
+Ванкувер
+3
+2.000
+3.30
+3.75
+5.20
+4.50
+1.55
+2.35 4.20
+2.55
+3.00 4.30
+2.05
+2.15
+4.202.85
+2.55
+4.30 2.08
+1.82
+4.50
+3.55
+Главные новости
+Легенда! Шипачев набрал 1000 очков в КХЛ
+Хоккей 07:08
+НХЛ. 13 января: «Тампа» обыграла
+«Филадельфию», «Миннесота»
+уступила «Нью-Джерси» и другие
+матчи
+Хоккей 06:12
+1
+«Монреаль» переиграл «Ванкувер»,
+хЗвук выключен
+Демидов сделал три
+результативные передачи
+ПРЯМОЙЭФИР
+Хоккей 05:47
+12
+«Тампа» выиграла у
+«Филадельфии» и продлила серию
+побед до 10, у Кучерова гол
+и передача
+Хоккей 05:34 2
+«Рейнджерс» проиграли на своем
+льду «Сиэтлу», Панарин сделал
+Продолжая работу с сайтом, вы подтверждаете
+Принять
+голевую передачу
+использование соокіеs. Подробнее
+X
+Легенда! Шипачев набрал 1000 очков в КХЛ","Футбол
+Хоккей
+Бокс/ММА
+Фигурное катание
+Лыжи
+Баскетбол
+Стиль жизни
+CyberPRO
+Ставки
+Еще
+Все новости
+Газета
+Статьи
+Матч-центр
+Игры
+Зарплаты КХЛ
+Фото
+Видео
+Live
+Рейтинг букмекеров
+Sport-express
+Уведомления
+Хоккей
+2-й период, 06:00
+2-й период, 06:30
+Завершен, 03:00
+Завершен, 03:00
+Завершен, 03:00
+Завершен, 03:00
+Завершен, 03:30
+Весь спорт
+Все матчи
+OT
+HXл
+Колорадо
+2
+Лбє-Анджелес
+Баффало
+3
+Детройт
+4
+Рейнджерс
+2
+Филадельфия
+1
+Монреаль
+Кэлорадо
+Ауджелес
+Райнджерс
+уладельфия
+6
+Сегодня
+Регулярный
+Торонто
+2
+Даллас
+1
+гффало
+Флорида
+етроит
+Каролина
+онреаль
+чемпионат
+4
+3
+Сиэтл
+4
+Тампа-Бэй
+5
+Ванкувер
+Торонто
+Даллас
+Флорида
+Каролина
+Сиэтл
+Tamna-
+Ванкувер
+3
+2.000
+3.30
+3.75
+5.20
+4.50
+1.55
+2.35 4.20
+2.55
+3.00 4.30
+2.05
+2.15
+4.202.85
+2.55
+4.30 2.08
+1.82
+4.50
+3.55
+Главные новости
+Легенда! Шипачев набрал 1000 очков в КХЛ
+Хоккей 07:08
+НХЛ. 13 января: «Тампа» обыграла
+«Филадельфию», «Миннесота»
+уступила «Нью-Джерси» и другие
+матчи
+Хоккей 06:12
+1
+«Монреаль» переиграл «Ванкувер»,
+хЗвук выключен
+Демидов сделал три
+результативные передачи
+ПРЯМОЙЭФИР
+Хоккей 05:47
+12
+«Тампа» выиграла у
+«Филадельфии» и продлила серию
+побед до 10, у Кучерова гол
+и передача
+Хоккей 05:34 2
+«Рейнджерс» проиграли на своем
+льду «Сиэтлу», Панарин сделал
+Продолжая работу с сайтом, вы подтверждаете
+Принять
+голевую передачу
+использование соокіеs. Подробнее
+X
+Легенда! Шипачев набрал 1000 очков в КХЛ","[0.98651123046875, 0.9912698864936829, 0.9574801325798035, 0.9711230993270874, 0.8950759172439575, 0.9801165461540222, 0.9784791469573975, 0.9669358134269714, 0.9847849011421204, 0.9921236634254456, 0.9882034659385681, 0.9829043745994568, 0.9900032877922058, 0.9429334402084351, 0.918677031993866, 0.9659522175788879, 0.9357740879058838, 0.9267972111701965, 0.9967756867408752, 0.9913207292556763, 0.9953216910362244, 0.9948596954345703, 0.9906393885612488, 0.9944239258766174, 0.9807714819908142, 0.9816944003105164, 0.9827259182929993, 0.9725873470306396, 0.9446894526481628, 0.9660630822181702, 0.9962797164916992, 0.9559592008590698, 0.7974348068237305, 0.5241594910621643, 0.9866886138916016, 0.999128520488739, 0.8917081356048584, 0.9380165934562683, 0.9382973313331604, 0.9906790852546692, 0.9997604489326477, 0.9710416793823242, 0.9988743662834167, 0.9957389831542969, 0.9997668862342834, 0.9940372705459595, 0.742919921875, 0.8096827268600464, 0.868489146232605, 0.9351398348808289, 0.9967858791351318, 0.9983522295951843, 0.9830476641654968, 0.7163527607917786, 0.9992326498031616, 0.6546823382377625, 0.9979975819587708, 0.4008741080760956, 0.9539871215820312, 0.6527754664421082, 0.8313913345336914, 0.8863142728805542, 0.9845943450927734, 0.9998998641967773, 0.8876737952232361, 0.7695711255073547, 0.999896764755249, 0.9168857932090759, 0.9991632699966431, 0.8130389451980591, 0.900503933429718, 0.7866086959838867, 0.9634140729904175, 0.8243844509124756, 0.855357825756073, 0.8553435802459717, 0.7172044515609741, 0.9593806862831116, 0.8985847234725952, 0.9977046847343445, 0.9118307828903198, 0.9748493432998657, 0.9918299913406372, 0.96314537525177, 0.8901293277740479, 0.9968551993370056, 0.942920446395874, 0.9973123669624329, 0.977246105670929, 0.9966152906417847, 0.6633754372596741, 0.9438173770904541, 0.9914636611938477, 0.9902893900871277, 0.998616099357605, 0.9895094633102417, 0.9695751070976257, 0.993556559085846, 0.962368369102478, 0.9847112894058228, 0.963744580745697, 0.9914634823799133, 0.9857169985771179, 0.9966673254966736, 0.9797509908676147, 0.9424250721931458, 0.9398264288902283, 0.9822417497634888, 0.9954861402511597, 0.9932869076728821, 0.9927036762237549, 0.9658653736114502, 0.9846693277359009, 0.9667252898216248, 0.9968946576118469, 0.9781259894371033, 0.9877824187278748, 0.9954156279563904, 0.9769060015678406, 0.9937767386436462, 0.9899469614028931, 0.9633612632751465, 0.43630343675613403, 0.9823070764541626]",success,reviewed,Partial,"Russian OCR extracted sports website navigation, hockey news and match information. Recognition errors were observed in team names, scores and text ordering."
+img_008111,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\18878_bikerumor.com - Copy.png,legitimate,en,"BIKERUMOR!
+eBike Feature Stories Event Coverage
+Buyers Guides
+Subscribe
+MTB
+Road
+Gravel
+What Innovation Will 2026 Bring? BikeRumor Predictions for a New Year of Bike Tech!
+Is This The New Cannondale CAAD
+14?
+Is This The New Cannondale CAAD 14?
+5 MIN READ
+BikeRumor Gear of the Year:
+BikeRumor
+All of the Gear, Trends, and
+Gear of the Year:
+Bike Tech that Shaped 2025
+All of the Gear,
+OPINION
+25 MIN READ
+Trends, and Bike
+What Innovation Will 2026 Bring? BikeRumor
+The Top 20 Bicycle Stories of
+The Top 20
+2025 on BikeRumor!
+Bicycle Stories
+Predictions for a New Year of Bike Tech!
+12 MIN READ
+of 2025 on
+BikeRumor!
+January 9, 2026
+REVIEWS
+Read More
+RockShox Reverb AXs Gen 2
+Review: PDW Bingo Spacer
+Remind Insoles Short Term
+Schwalbe Clik Valve Review:","BIKERUMOR!
+eBike Feature Stories Event Coverage
+Buyers Guides
+Subscribe
+MTB
+Road
+Gravel
+What Innovation Will 2026 Bring? BikeRumor Predictions for a New Year of Bike Tech!
+Is This The New Cannondale CAAD
+14?
+Is This The New Cannondale CAAD 14?
+5 MIN READ
+BikeRumor Gear of the Year:
+BikeRumor
+All of the Gear, Trends, and
+Gear of the Year:
+Bike Tech that Shaped 2025
+All of the Gear,
+OPINION
+25 MIN READ
+Trends, and Bike
+What Innovation Will 2026 Bring? BikeRumor
+The Top 20 Bicycle Stories of
+The Top 20
+2025 on BikeRumor!
+Bicycle Stories
+Predictions for a New Year of Bike Tech!
+12 MIN READ
+of 2025 on
+BikeRumor!
+January 9, 2026
+REVIEWS
+Read More
+RockShox Reverb AXs Gen 2
+Review: PDW Bingo Spacer
+Remind Insoles Short Term
+Schwalbe Clik Valve Review:","[0.9991474151611328, 0.9767601490020752, 0.99971604347229, 0.9999637603759766, 0.9998660683631897, 0.9998894333839417, 0.9999237060546875, 0.9873697757720947, 0.9851057529449463, 0.998462438583374, 0.9823035001754761, 0.9845755696296692, 0.9904083013534546, 0.9995317459106445, 0.9679952263832092, 0.9995783567428589, 0.9876057505607605, 0.9984539151191711, 0.9988616108894348, 0.9980919361114502, 0.9952898621559143, 0.9988564848899841, 0.9908314347267151, 0.9883729815483093, 0.9532886147499084, 0.9998899698257446, 0.9848800897598267, 0.990568220615387, 0.9941204190254211, 0.9998313784599304, 0.997364342212677, 0.9999114274978638, 0.9794720411300659, 0.9766019582748413, 0.9949991703033447, 0.9836703538894653, 0.9728559851646423]",success,pending,,
+img_008190,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\19005_blofin.com - Copy.png,legitimate,en,"loFin Buy Crypto v Markets Spot v Futures v Copy Trading  Earn v Rewards Hub
+More v
+Log in
+ff
+Sign up
+BloFin - Where Whales
+1/2
+are Made
+Email/ Phone
+#
+Sign up
+,
+Or Continue With
+Download App
+BX0
+2
+x
+I
+BloFin Pre-Market Listing: Trade FOGOUSDT with 0% Maker Fees & 50% Off Taker Fees! 01/12/2026
+View More","loFin Buy Crypto v Markets Spot v Futures v Copy Trading Earn v Rewards Hub
+More v
+Log in
+ff
+Sign up
+BloFin - Where Whales
+1/2
+are Made
+Email/ Phone
+Sign up
+Or Continue With
+Download App
+BX0
+x
+BloFin Pre-Market Listing: Trade FOGOUSDT with 0% Maker Fees & 50% Off Taker Fees! 01/12/2026
+View More","[0.8831671476364136, 0.9242873191833496, 0.9145243763923645, 0.6733804941177368, 0.9998775720596313, 0.983924150466919, 0.9993603229522705, 0.998859167098999, 0.9867026805877686, 0.9990934133529663, 0.99176025390625, 0.9998250007629395, 0.5955972671508789, 0.8632749915122986, 0.9729111194610596, 0.9937132596969604]",success,pending,,
+img_009818,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\21887_voanews.com - Copy.png,legitimate,en,"Q
+site logo
+24
+
+US NEWS
+
+
+pyCCKu
+Top Stories
+R
+Senate averts government
+shutdown, overcomes
+Democratic opposition
+US to expel South Africa
+ambassador as relations
+deteriorate
+Kremlin: Reasons to be
+optimistic about ceasefire
+deal
+VOA UZBEK
+Human rights group urges
+Starmer: 'Sooner or later' Russia must yield to peace
+Uzbekistan to uphold reforms
+More From VOA
+^
+From VOA's Language Services
+^
+VOA KURDISH
+VOA KURDISH
+TIBETAN
+Syria's interim constitution raises fears
+Public release of man's confession
+
+of sectarian division
+sparks legal concerns","Q
+site logo
+24
+US NEWS
+pyCCKu
+Top Stories
+R
+Senate averts government
+shutdown, overcomes
+Democratic opposition
+US to expel South Africa
+ambassador as relations
+deteriorate
+Kremlin: Reasons to be
+optimistic about ceasefire
+deal
+VOA UZBEK
+Human rights group urges
+Starmer: 'Sooner or later' Russia must yield to peace
+Uzbekistan to uphold reforms
+More From VOA
+^
+From VOA's Language Services
+^
+VOA KURDISH
+VOA KURDISH
+TIBETAN
+Syria's interim constitution raises fears
+Public release of man's confession
+of sectarian division
+sparks legal concerns","[0.9150199294090271, 0.998967707157135, 0.6310597658157349, 0.9973867535591125, 0.5364489555358887, 0.9988108277320862, 0.5166051387786865, 0.9847183227539062, 0.9796488881111145, 0.9831669926643372, 0.9845204949378967, 0.99098801612854, 0.9999446868896484, 0.9969608783721924, 0.9990771412849426, 0.9999382495880127, 0.999297559261322, 0.9887068867683411, 0.9996961355209351, 0.9721724390983582, 0.9987229704856873, 0.9572193622589111, 0.9898151159286499, 0.9386726021766663, 0.9989416599273682, 0.9645347595214844, 0.9999145865440369, 0.9986767768859863, 0.9897660613059998, 0.9952696561813354, 0.9940170049667358]",success,pending,,
+img_010781,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\23674_jurnalul.ro - Copy.png,legitimate,ro,"Nouă ne pasă ca datele tale personale să rămână confidențiale
+Atât noi, cât si partenerii noștri prelucrăm datele pentru a oferi:
+Noi si parteneri nostri 618 stocăm si/sau accesăm informații pe dispozitivul dvs., precum identificatorii cookie unici pentru prelucrarea datelor cu
+Stocarea și/sau accesarea informaților de pe un dispozitiv. Mäsurarea performanței reclamelor. Utilizarea profilurilor pentru selectarea
+caracter personal. Puteți accepta sau gestiona alegerile dvs. facând clic mai jos sau in orice moment, pe pagina cu politica de confidentialitate. Aceste
+continutului personalizat. Dezvoltarea si imbunătățirea serviciilor. Crearea profilurilor de conținut personalizat. Utilizarea profilurilor pentru
+alegeri vor fi raportate partenerilor noștri și nu vă vor afecta navigarea.
+selectarea publicități personalizate. Crearea profilurilor pentru publicitate personalizată. Māsurarea performanței conținutului. Ințelegerea
+ACCEPT TOATE
+publicului prin statistici sau combinați de date din surse diferite. Utilizarea datelor limitate pentru a selecta conținutul. Utilizarea de date
+Noi si partenerii nostri (retelele de socializare si agentile de publicitate partenere, precum si furnizori nostri de servicii de date analitice) prelucram date
+limitate pentru a selecta publicitatea. Date precise de geolocație și identificarea prin scanarea dispozitivului.
+pentru a permite website-ului sa functioneze, pentru a personaliza continutul si anunturile publicitare afisate in functie de interesele si/sau profilul dvs.
+Listă parteneri (furnizori)
+VREAU SA MODIFIC SETARILE
+pentru a va oferi functionalitati aferente retelelor de socializare si pentru a analiza traficul pe website. Beneficiati de drepturile prevazute de art. 15-22 din
+INDIVIDUAL
+GDPR in legatura cu prelucrarea datelor cu caracter personal. Aceste drepturi pot fi exercitate prin modalitatea indicataaici. Prin click pe ""AcCEPT
+TOATE"", acceptati folosirea tuturor Tehnologiilor de tip Cookie, care implica inclusiv acceptul dvs. cu privire la stocarea/accesarea informatilor de catre
+Vendor-i cu care colaboram. Prin click pe ""VREAU SA MODIFIC SETARILE INDIVIDUAL"" puteti schimba preferintele in mod individual, mai putin cele legate
+de cookie strict necesare pentru functionarea website-ului.","Nouă ne pasă ca datele tale personale să rămână confidențiale
+Atât noi, cât si partenerii noștri prelucrăm datele pentru a oferi:
+Noi si parteneri nostri 618 stocăm si/sau accesăm informații pe dispozitivul dvs., precum identificatorii cookie unici pentru prelucrarea datelor cu
+Stocarea și/sau accesarea informaților de pe un dispozitiv. Mäsurarea performanței reclamelor. Utilizarea profilurilor pentru selectarea
+caracter personal. Puteți accepta sau gestiona alegerile dvs. facând clic mai jos sau in orice moment, pe pagina cu politica de confidentialitate. Aceste
+continutului personalizat. Dezvoltarea si imbunătățirea serviciilor. Crearea profilurilor de conținut personalizat. Utilizarea profilurilor pentru
+alegeri vor fi raportate partenerilor noștri și nu vă vor afecta navigarea.
+selectarea publicități personalizate. Crearea profilurilor pentru publicitate personalizată. Māsurarea performanței conținutului. Ințelegerea
+ACCEPT TOATE
+publicului prin statistici sau combinați de date din surse diferite. Utilizarea datelor limitate pentru a selecta conținutul. Utilizarea de date
+Noi si partenerii nostri (retelele de socializare si agentile de publicitate partenere, precum si furnizori nostri de servicii de date analitice) prelucram date
+limitate pentru a selecta publicitatea. Date precise de geolocație și identificarea prin scanarea dispozitivului.
+pentru a permite website-ului sa functioneze, pentru a personaliza continutul si anunturile publicitare afisate in functie de interesele si/sau profilul dvs.
+Listă parteneri (furnizori)
+VREAU SA MODIFIC SETARILE
+pentru a va oferi functionalitati aferente retelelor de socializare si pentru a analiza traficul pe website. Beneficiati de drepturile prevazute de art. 15-22 din
+INDIVIDUAL
+GDPR in legatura cu prelucrarea datelor cu caracter personal. Aceste drepturi pot fi exercitate prin modalitatea indicataaici. Prin click pe ""AcCEPT
+TOATE"", acceptati folosirea tuturor Tehnologiilor de tip Cookie, care implica inclusiv acceptul dvs. cu privire la stocarea/accesarea informatilor de catre
+Vendor-i cu care colaboram. Prin click pe ""VREAU SA MODIFIC SETARILE INDIVIDUAL"" puteti schimba preferintele in mod individual, mai putin cele legate
+de cookie strict necesare pentru functionarea website-ului.","[0.9763251543045044, 0.9762528538703918, 0.9723536372184753, 0.9775090217590332, 0.9790222644805908, 0.9657864570617676, 0.9706831574440002, 0.9744107127189636, 0.9904555678367615, 0.9836006164550781, 0.9806434512138367, 0.9828842282295227, 0.9881556034088135, 0.9980917572975159, 0.99695885181427, 0.983742892742157, 0.9968320727348328, 0.9816165566444397, 0.9900053143501282, 0.986158013343811, 0.984287679195404]",success,reviewed,Good,"Romanian OCR successfully extracted the cookie consent notice, privacy information, data processing details and consent buttons. Minor recognition and ordering errors were observed."
+img_011305,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\24596_flyfrontier.com - Copy.png,legitimate,en,"Españiol
+MY TRIPS & TRAVEL INFO DEALS
+FRONTIER Miles
+Hi, log in | sign up
+TRAVEL ALERT
+Sign up for our latest deals!
+BOOK
+CHECK-IN
+FLIGHT STATUS
+Earn 50,000 Miles and a 1-
+FLIGHT
+VACATIONS
+HOTEL
+CAR
+year Discount Den
+Round-trip
+One-way
+membership after
+From*
+To*
+qualifying activity!
+Depart Date*
+Return Date*
+Travelers*
+1 Adult
+Promo Code
+Search By* O Dollars
+Miles
+PRE-QUALIFY NOW
+Terms Apply
+New Bag Policy and Optional Services
+GoWild Pass
+GoWild Pass
+Join FRONTIER Miles
+Join FRONTIER Miles
+EARN 50,000 MILES AND A 1-YEAR DISCOUNT DEN MEMBERSHIP AFTER
+WOLL
+QUALIFYING ACTIVITY!
+PRE-QUALIFY","Españiol
+MY TRIPS & TRAVEL INFO DEALS
+FRONTIER Miles
+Hi, log in | sign up
+TRAVEL ALERT
+Sign up for our latest deals!
+BOOK
+CHECK-IN
+FLIGHT STATUS
+Earn 50,000 Miles and a 1-
+FLIGHT
+VACATIONS
+HOTEL
+CAR
+year Discount Den
+Round-trip
+One-way
+membership after
+From*
+To*
+qualifying activity!
+Depart Date*
+Return Date*
+Travelers*
+1 Adult
+Promo Code
+Search By* O Dollars
+Miles
+PRE-QUALIFY NOW
+Terms Apply
+New Bag Policy and Optional Services
+GoWild Pass
+GoWild Pass
+Join FRONTIER Miles
+Join FRONTIER Miles
+EARN 50,000 MILES AND A 1-YEAR DISCOUNT DEN MEMBERSHIP AFTER
+WOLL
+QUALIFYING ACTIVITY!
+PRE-QUALIFY","[0.9529391527175903, 0.9656752347946167, 0.966619074344635, 0.9663049578666687, 0.9994409680366516, 0.9811149835586548, 0.9998157024383545, 0.9998279809951782, 0.9988384246826172, 0.9807239770889282, 0.9999027252197266, 0.9998671412467957, 0.9998458623886108, 0.838110625743866, 0.9811631441116333, 0.9989755749702454, 0.9998330473899841, 0.9990676045417786, 0.9959889650344849, 0.9998178482055664, 0.9777876734733582, 0.9997484683990479, 0.9997735619544983, 0.9999037981033325, 0.949028491973877, 0.9998435974121094, 0.9565297961235046, 0.9995607137680054, 0.9997125864028931, 0.9995130300521851, 0.9735859632492065, 0.9710689187049866, 0.9973997473716736, 0.9947018027305603, 0.9979227781295776, 0.9818922281265259, 0.713913083076477, 0.9758079648017883, 0.9999141097068787]",success,pending,,
+img_011598,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\25159_numerama.com - Copy.png,legitimate,en,"numerama
+O
+1
++ s'abonner
+menu
+vroom
+CONTINUE WITHOUT AGREEING —
+Dacia Sprin
+
+Logo
+Stranger
+hings / Source
+To support us, consider accepting cookies
+Netflix
+With your agreement, we and our partners use cookies or similar technologies to store, access,
+and process personal data like your visit on this website, IP addresses and cookie identifiers. Some
+partners do not ask for your consent to process your data and rely on their legitimate business
+interest. You can withdraw your consent or object to data processing based on legitimate interest
+at any time by clicking on ""Learn More"" or in our Privacy Policy on this website.
+Cyberpunk
+077 / Source:
+Utiq Use of Utiq technology powered by your telecom operator
+ Projekt Red
+We, Numerama, use the Utiq technology for digital marketing or analytics (as described on this
+consent notice) based on your browsing activity across our website(s), listed here (only if you are
+using a supported internet connection provided by a participating telecom operator and consent
+on each website).
+Arnaques en
+The Utiq technology is privacy centric to give you choice and control. It uses an identifier created
+Pourqu
+gne:l'IA les
+by your telecom operator based on your IP address and a telecom reference such as your telecom
+end plus
+chère
+account (e.g., mobile number).
+ophistiquées,
+The identifier is assigned to the internet connection, so anyone connecting their device and
+hais elle vous
+finalem
+consenting to the Utiq technology will receive the same identifier. Typically:
+- on a broadband connection (e.g., Wi-Fi), the marketing or analytics will be performed based on
+Spring
+the browsing activities of consenting household members'.
+- on mobile data, the marketing will be more personalised, as it will be based on the browsing of
+the individual mobile user only.
+By consenting, you confirm that you have permission from the telecom account holder to enable
+the Utiq technology on this internet connection.
+You can withdraw your consent to the use of Utiq technology at any time using Utig's privacy.
+portal (""consenthub""), or via ""Manage Utiq"" at the bottom of this site (for this website only). For
+more, see Utig's Privacy Statement.
+LEARN MORE →
+AGREE AND CLOSE
+Ne plus voir cette pub","numerama
++ s'abonner
+menu
+vroom
+CONTINUE WITHOUT AGREEING —
+Dacia Sprin
+Logo
+Stranger
+hings / Source
+To support us, consider accepting cookies
+Netflix
+With your agreement, we and our partners use cookies or similar technologies to store, access,
+and process personal data like your visit on this website, IP addresses and cookie identifiers. Some
+partners do not ask for your consent to process your data and rely on their legitimate business
+interest. You can withdraw your consent or object to data processing based on legitimate interest
+at any time by clicking on ""Learn More"" or in our Privacy Policy on this website.
+Cyberpunk
+077 / Source:
+Utiq Use of Utiq technology powered by your telecom operator
+Projekt Red
+We, Numerama, use the Utiq technology for digital marketing or analytics (as described on this
+consent notice) based on your browsing activity across our website(s), listed here (only if you are
+using a supported internet connection provided by a participating telecom operator and consent
+on each website).
+Arnaques en
+The Utiq technology is privacy centric to give you choice and control. It uses an identifier created
+Pourqu
+gne:l'IA les
+by your telecom operator based on your IP address and a telecom reference such as your telecom
+end plus
+chère
+account (e.g., mobile number).
+ophistiquées,
+The identifier is assigned to the internet connection, so anyone connecting their device and
+hais elle vous
+finalem
+consenting to the Utiq technology will receive the same identifier. Typically:
+- on a broadband connection (e.g., Wi-Fi), the marketing or analytics will be performed based on
+Spring
+the browsing activities of consenting household members'.
+- on mobile data, the marketing will be more personalised, as it will be based on the browsing of
+the individual mobile user only.
+By consenting, you confirm that you have permission from the telecom account holder to enable
+the Utiq technology on this internet connection.
+You can withdraw your consent to the use of Utiq technology at any time using Utig's privacy.
+portal (""consenthub""), or via ""Manage Utiq"" at the bottom of this site (for this website only). For
+more, see Utig's Privacy Statement.
+LEARN MORE →
+AGREE AND CLOSE
+Ne plus voir cette pub","[0.9999379515647888, 0.9759446978569031, 0.9999716281890869, 0.9928262829780579, 0.9772277474403381, 0.9993734359741211, 0.9988083839416504, 0.9957979917526245, 0.9498370885848999, 0.9954225420951843, 0.9997625350952148, 0.993220329284668, 0.9875932335853577, 0.983554482460022, 0.9849092960357666, 0.9737651348114014, 0.9958550333976746, 0.885315477848053, 0.9910188913345337, 0.9144969582557678, 0.9866486191749573, 0.982841968536377, 0.9819343090057373, 0.9969444274902344, 0.9556265473365784, 0.9885101914405823, 0.9997926354408264, 0.9037534594535828, 0.9926809668540955, 0.9841872453689575, 0.9688925743103027, 0.9869473576545715, 0.9856900572776794, 0.9863145351409912, 0.9310633540153503, 0.9933107495307922, 0.9863839745521545, 0.9791291356086731, 0.9995124340057373, 0.9903985857963562, 0.9800066351890564, 0.986771285533905, 0.9756878018379211, 0.9855892062187195, 0.9851133823394775, 0.9761614799499512, 0.9618864059448242, 0.9695596098899841, 0.9993467926979065, 0.9875273108482361]",success,pending,,
+img_013276,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\779_sealsubscriptions.com.png,legitimate,en,"Seal Subscriptions Logo
+FEATURES
+FAQ
+TUTORIALS
+PARTNERS
+TESTIMONIALS
+PRICING
+
+(1,800+reviews)
+Seal Subscriptions
+TM
+Subscription app for Shopify
+Built for Shopify
+Unlock the potential of predictable recurring revenue and skyrocket your business growth with Seal Subscriptions -
+the ultimate subscription solution for discovering new opportunities.
+Find on shopify logo large
+Trusted by over 30,000+ brands
+Kauai
+Brain
+R
+The British
+The Bld
+Sensory
+NZMS
+Skincare
+Tally
+Longetivity","Seal Subscriptions Logo
+FEATURES
+FAQ
+TUTORIALS
+PARTNERS
+TESTIMONIALS
+PRICING
+(1,800+reviews)
+Seal Subscriptions
+TM
+Subscription app for Shopify
+Built for Shopify
+Unlock the potential of predictable recurring revenue and skyrocket your business growth with Seal Subscriptions -
+the ultimate subscription solution for discovering new opportunities.
+Find on shopify logo large
+Trusted by over 30,000+ brands
+Kauai
+Brain
+R
+The British
+The Bld
+Sensory
+NZMS
+Skincare
+Tally
+Longetivity","[0.9935376644134521, 0.9999109506607056, 0.9627113938331604, 0.9998350143432617, 0.9999072551727295, 0.9998977184295654, 0.973885715007782, 0.9984303116798401, 0.9973353147506714, 0.99991774559021, 0.9883744120597839, 0.982168972492218, 0.9930514693260193, 0.9759220480918884, 0.9836871027946472, 0.9919320940971375, 0.9992583990097046, 0.9998568296432495, 0.6204315423965454, 0.9989969730377197, 0.9576621055603027, 0.9996782541275024, 0.9976257085800171, 0.9998946189880371, 0.9988579750061035, 0.9991421103477478]",success,pending,,
+img_013515,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L00089_legitimate.png,legitimate,en,"Computer Hope
+Search
+Free computer help since 1998
+Help
+Tips
+Dictionary
+History
+Forums
+Contact
+D×
+ESET Internet Security
+Effektiver Virenschutz für Ihren PC - Mehr als 110 Mio. zufriedene Nutzer
+ESET®
+OFFNEN
+You are here: Home > Help > Hardware Help > Video Card Help
+How do I know which computer video card I have?
+Updated: 06/30/2020 by Computer Hope
+Whether you're looking to upgrade or are curious about your
+computer's specifications, many people want to know what video
+card, or GPU, is installed on their computer. Some PCs have
+integrated graphics, and some have a video card. In either case,
+the instructions below help you determine the graphics device
+powering your computer's video output. To proceed, choose your
+preferred method from the list below, or read all of the sections
+and proceed from there.
+ComputerHope.com
+Page contents
+Device Manager","Computer Hope
+Search
+Free computer help since 1998
+Help
+Tips
+Dictionary
+History
+Forums
+Contact
+D×
+ESET Internet Security
+Effektiver Virenschutz für Ihren PC - Mehr als 110 Mio. zufriedene Nutzer
+ESET®
+OFFNEN
+You are here: Home > Help > Hardware Help > Video Card Help
+How do I know which computer video card I have?
+Updated: 06/30/2020 by Computer Hope
+Whether you're looking to upgrade or are curious about your
+computer's specifications, many people want to know what video
+card, or GPU, is installed on their computer. Some PCs have
+integrated graphics, and some have a video card. In either case,
+the instructions below help you determine the graphics device
+powering your computer's video output. To proceed, choose your
+preferred method from the list below, or read all of the sections
+and proceed from there.
+ComputerHope.com
+Page contents
+Device Manager","[0.9987061619758606, 0.9999633431434631, 0.9869049191474915, 0.9998850226402283, 0.9997895359992981, 0.9999245405197144, 0.9996364712715149, 0.9998916983604431, 0.999696671962738, 0.5264316201210022, 0.9972488880157471, 0.9854106903076172, 0.9432302713394165, 0.9546861052513123, 0.9762123227119446, 0.9888260960578918, 0.9964945912361145, 0.9914426803588867, 0.991667628288269, 0.9811103343963623, 0.9845196008682251, 0.9872437119483948, 0.9926376938819885, 0.9847057461738586, 0.9831775426864624, 0.9998091459274292, 0.9998309016227722, 0.999664306640625]",success,pending,,
+img_013833,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L00418_legitimate.png,legitimate,en,"COvID-19 is an emerging, rapidly evolving situation.
+Get the latest public health information from CDC: https://www.coronavirus. gov 
+Get the latest research from NIH: https://www.nih gov/coronavirus.
+NIH
+U.S. National Library of Medicine
+Share This Page •
+Genetics
+Your Guide to Understanding
+Home
+Search
+×
+Reference
+Genetic Conditions
+Health Conditions
+Genes
+Chromosomes & mtDNA
+Classroom
+Help Me Understand Genetics
+What is DNA?
+DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms.
+For more information about DNA:
+Nearly every cell in a person's body has the same DNA. Most DNA is located in the cell nucleus (where
+it is called nuclear DNA), but a small amount of DNA can also be found in the mitochondria (where it is
+called mitochondrial DNA or mtDNA). Mitochondria
+are structures within cells that convert the
+The National Human Genome Research
+energy from food into a form that cells can use.
+Institute fact sheet Deoxyribonucleic Acid
+The information in DNA is stored as a code made up of four chemical bases: adenine (A), guanine (G),
+(DNA) provides an introduction to this
+cytosine (C), and thymine (T). Human DNA consists of about 3 billion bases, and more than 99 percent
+molecule.
+of those bases are the same in all people. The order, or sequence, of these bases determines the
+StatedClearly offers a video introduction
+information available for building and maintaining an organism, similar to the way in which letters of
+to DNA and how it works .
+the alphabet appear in a certain order to form words and sentences.
+The New Genetics, a publication of the
+DNA bases pair up with each other, A with T and C with G, to form units called base pairs. Each base is
+National Institute of General Medical
+also attached to a sugar molecule and a phosphate molecule. Together, a base, sugar, and phosphate
+Sciences, discusses the structure of DNA
+are called a nucleotide. Nucleotides are arranged in two long strands that form a spiral called a double
+and how it was discovered.
+helix. The structure of the double helix is somewhat like a ladder, with the base pairs forming the
+ladder's rungs and the sugar and phosphate molecules forming the vertical sidepieces of the ladder.
+A basic explanation and illustration of
+DNA  can be found on Arizona State
+An important property of DNA is that it can replicate, or make copies of itself. Each strand of DNA in
+University's ""Ask a Biologist"" website.
+the double helix can serve as a pattern for duplicating the sequence of bases. This is critical when cells
+divide because each new cell needs to have an exact copy of the DNA present in the old cell.
+The Virtual Genetics Education Centre,
+created by the University of Leicester,
+DNA is a double helix formed by base pairs attached to a sugar-phosphate backbone.
+offers additional information on DNA.","COvID-19 is an emerging, rapidly evolving situation.
+Get the latest public health information from CDC: https://www.coronavirus. gov
+Get the latest research from NIH: https://www.nih gov/coronavirus.
+NIH
+U.S. National Library of Medicine
+Share This Page •
+Genetics
+Your Guide to Understanding
+Home
+Search
+×
+Reference
+Genetic Conditions
+Health Conditions
+Genes
+Chromosomes & mtDNA
+Classroom
+Help Me Understand Genetics
+What is DNA?
+DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms.
+For more information about DNA:
+Nearly every cell in a person's body has the same DNA. Most DNA is located in the cell nucleus (where
+it is called nuclear DNA), but a small amount of DNA can also be found in the mitochondria (where it is
+called mitochondrial DNA or mtDNA). Mitochondria
+are structures within cells that convert the
+The National Human Genome Research
+energy from food into a form that cells can use.
+Institute fact sheet Deoxyribonucleic Acid
+The information in DNA is stored as a code made up of four chemical bases: adenine (A), guanine (G),
+(DNA) provides an introduction to this
+cytosine (C), and thymine (T). Human DNA consists of about 3 billion bases, and more than 99 percent
+molecule.
+of those bases are the same in all people. The order, or sequence, of these bases determines the
+StatedClearly offers a video introduction
+information available for building and maintaining an organism, similar to the way in which letters of
+to DNA and how it works .
+the alphabet appear in a certain order to form words and sentences.
+The New Genetics, a publication of the
+DNA bases pair up with each other, A with T and C with G, to form units called base pairs. Each base is
+National Institute of General Medical
+also attached to a sugar molecule and a phosphate molecule. Together, a base, sugar, and phosphate
+Sciences, discusses the structure of DNA
+are called a nucleotide. Nucleotides are arranged in two long strands that form a spiral called a double
+and how it was discovered.
+helix. The structure of the double helix is somewhat like a ladder, with the base pairs forming the
+ladder's rungs and the sugar and phosphate molecules forming the vertical sidepieces of the ladder.
+A basic explanation and illustration of
+DNA can be found on Arizona State
+An important property of DNA is that it can replicate, or make copies of itself. Each strand of DNA in
+University's ""Ask a Biologist"" website.
+the double helix can serve as a pattern for duplicating the sequence of bases. This is critical when cells
+divide because each new cell needs to have an exact copy of the DNA present in the old cell.
+The Virtual Genetics Education Centre,
+created by the University of Leicester,
+DNA is a double helix formed by base pairs attached to a sugar-phosphate backbone.
+offers additional information on DNA.","[0.9826504588127136, 0.9848907589912415, 0.9906519055366516, 0.9969074130058289, 0.9961891174316406, 0.9770582914352417, 0.9984712600708008, 0.9994438886642456, 0.9996206164360046, 0.9999210238456726, 0.983535647392273, 0.8147604465484619, 0.9998695850372314, 0.9998284578323364, 0.9998975992202759, 0.9995391368865967, 0.9999299645423889, 0.9826812744140625, 0.9997840523719788, 0.9893472194671631, 0.982551097869873, 0.9861490726470947, 0.9943163990974426, 0.9821848273277283, 0.9805229306221008, 0.9859874844551086, 0.9895119667053223, 0.9816142320632935, 0.9749365448951721, 0.987682044506073, 0.9850713610649109, 0.9999125599861145, 0.9791076183319092, 0.9967162609100342, 0.9919106960296631, 0.9737016558647156, 0.9797473549842834, 0.9525118470191956, 0.9850391745567322, 0.9982660412788391, 0.9947229623794556, 0.9983510971069336, 0.9792053699493408, 0.9997387528419495, 0.9874114394187927, 0.9926024079322815, 0.9912279844284058, 0.98338383436203, 0.9888102412223816, 0.980932354927063, 0.9892303347587585, 0.9892972707748413, 0.9811263680458069, 0.9898917078971863, 0.9931803345680237, 0.988460123538971]",success,pending,,
+img_014261,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L00869_legitimate.png,legitimate,en,"Setup Router
+DX
+Linksys DD-WRT-v24-SP2 Wake-On-LAN
+This is the Wake-On-LAN screen from the Linksys DD-WRT-v24-SP2 router.
+DX
+SRP MARKETPLACE
+One-stop shop for energy-saving
+devices
+Buy Chrom Columns Online
+Add your chromatography products
+72
+themmo
+sciontiftic
+to your cart and check out online
+available 24/7.
+Home
+Click for
+List of Routers
+special deals
+What is a Router
+Software
+dd-wrt.com
+Firmware: DD-WRT v24-sp2 (10/10/09) min
+Time: 18:32:04 up 28 min, load average: 0.44, 0.14, 0.07
+Network Utilities
+control panel
+WAN IP:
+Find Router Password
+Setup
+Wireless
+Services
+Security
+Access Restrictions
+NAT / QoS
+Administration
+Status
+Advanced Password Generator
+Management
+Keep Alive
+Commands
+WOL
+Factory Defaults
+Firmware Upgrade
+Backup
+How Long To Recover Lost Password
+Common Router Passwords
+Wake-On-LAN
+Help
+more...
+Available Hosts
+Wake-On-LAN:
+Networking Guides
+MAC Address
+Host Name
+IP Address
+This page allows you to Wake Lp hosts
+Enable WOL?
+on your local network (i.e. locally
+What is my IP Address
+connected to your router). You can
+WOL Addresses
+manually wake up hosts by dicking the
+What is an IP Address
+automatic schedule wake up thanks to
+Wake Up or you can program an
+What is a Port
+MAC Address
+Host Name
+Net Broadcast
+Remove
+the WOL daemon.
+How To Reset Your Router
+Add Host
+MAC Address(es):
+Find Your Router's Internal IP Address
+MAC Address(es) are entered in the
+How To Update Router Firmware
+Manual WOL
+format xxxo:xxoxxx:xOX (.e.
+01:23:45:67:89:AB) and must be
+MAC Address(es)
+separated by a SPACE
+What are WiFi Channels
+IP Address:
+How to Change Your Wireless Name
+IP Address
+IP Address is typically the broadcast
+could be a remote address if the target
+address for the local network, but
+What is WPS
+UDP Port
+SetunRouter.co
+host is not connected to the router's
+WEP vs. WPA
+Manual Wake Up
+local network.
+How to Choose a Stronq Password
+Automatic Wake-On-LAN
+What is Port Forwarding
+Wake-On-LAN daemon
+Router DM7
+This website uses cookies to ensure you get the best experience on our website. Learn more
+Got it!","Setup Router
+DX
+Linksys DD-WRT-v24-SP2 Wake-On-LAN
+This is the Wake-On-LAN screen from the Linksys DD-WRT-v24-SP2 router.
+DX
+SRP MARKETPLACE
+One-stop shop for energy-saving
+devices
+Buy Chrom Columns Online
+Add your chromatography products
+72
+themmo
+sciontiftic
+to your cart and check out online
+available 24/7.
+Home
+Click for
+List of Routers
+special deals
+What is a Router
+Software
+dd-wrt.com
+Firmware: DD-WRT v24-sp2 (10/10/09) min
+Time: 18:32:04 up 28 min, load average: 0.44, 0.14, 0.07
+Network Utilities
+control panel
+WAN IP:
+Find Router Password
+Setup
+Wireless
+Services
+Security
+Access Restrictions
+NAT / QoS
+Administration
+Status
+Advanced Password Generator
+Management
+Keep Alive
+Commands
+WOL
+Factory Defaults
+Firmware Upgrade
+Backup
+How Long To Recover Lost Password
+Common Router Passwords
+Wake-On-LAN
+Help
+more...
+Available Hosts
+Wake-On-LAN:
+Networking Guides
+MAC Address
+Host Name
+IP Address
+This page allows you to Wake Lp hosts
+Enable WOL?
+on your local network (i.e. locally
+What is my IP Address
+connected to your router). You can
+WOL Addresses
+manually wake up hosts by dicking the
+What is an IP Address
+automatic schedule wake up thanks to
+Wake Up or you can program an
+What is a Port
+MAC Address
+Host Name
+Net Broadcast
+Remove
+the WOL daemon.
+How To Reset Your Router
+Add Host
+MAC Address(es):
+Find Your Router's Internal IP Address
+MAC Address(es) are entered in the
+How To Update Router Firmware
+Manual WOL
+format xxxo:xxoxxx:xOX (.e.
+01:23:45:67:89:AB) and must be
+MAC Address(es)
+separated by a SPACE
+What are WiFi Channels
+IP Address:
+How to Change Your Wireless Name
+IP Address
+IP Address is typically the broadcast
+could be a remote address if the target
+address for the local network, but
+What is WPS
+UDP Port
+SetunRouter.co
+host is not connected to the router's
+WEP vs. WPA
+Manual Wake Up
+local network.
+How to Choose a Stronq Password
+Automatic Wake-On-LAN
+What is Port Forwarding
+Wake-On-LAN daemon
+Router DM7
+This website uses cookies to ensure you get the best experience on our website. Learn more
+Got it!","[0.9959107041358948, 0.5454903244972229, 0.9973344206809998, 0.9894608855247498, 0.6344571709632874, 0.9996973872184753, 0.9848800301551819, 0.9999662041664124, 0.9922056794166565, 0.9990676045417786, 0.9994702339172363, 0.9439406991004944, 0.7949197292327881, 0.9875342845916748, 0.9996591210365295, 0.9997439980506897, 0.9996834993362427, 0.9732072353363037, 0.9994643926620483, 0.9759030938148499, 0.9999818801879883, 0.9852429628372192, 0.9718894958496094, 0.9816712141036987, 0.9995264410972595, 0.987791895866394, 0.9886385798454285, 0.9998379945755005, 0.9997248649597168, 0.9996922016143799, 0.9998738765716553, 0.99941086769104, 0.9998496174812317, 0.9376652836799622, 0.9998641610145569, 0.9997187256813049, 0.9997988343238831, 0.9993855357170105, 0.9899353981018066, 0.99773770570755, 0.9955912232398987, 0.9932812452316284, 0.9712140560150146, 0.9960381984710693, 0.996439516544342, 0.9882071018218994, 0.9974372386932373, 0.999601423740387, 0.9893122315406799, 0.9997374415397644, 0.9995098114013672, 0.9998061060905457, 0.9935413002967834, 0.947413444519043, 0.9980834722518921, 0.9641903042793274, 0.982625424861908, 0.9761422276496887, 0.9996793866157532, 0.9719192385673523, 0.9924755096435547, 0.9901983141899109, 0.9911797642707825, 0.9987819194793701, 0.9818597435951233, 0.9479314088821411, 0.9909803867340088, 0.9984160661697388, 0.9829120635986328, 0.9997067451477051, 0.9942216277122498, 0.972143828868866, 0.9979560375213623, 0.9966477155685425, 0.9985218048095703, 0.9893783330917358, 0.9843911528587341, 0.9521210789680481, 0.8440206050872803, 0.9792087078094482, 0.9698840379714966, 0.9648720026016235, 0.9964488744735718, 0.9982160329818726, 0.9993142485618591, 0.9936630129814148, 0.9887458086013794, 0.9875490069389343, 0.9889474511146545, 0.9985036253929138, 0.9960793256759644, 0.9572266936302185, 0.9813452959060669, 0.9909294247627258, 0.9957482218742371, 0.9987002611160278, 0.9762747883796692, 0.9910618662834167, 0.9992675185203552, 0.9946445822715759, 0.9965643882751465, 0.9914526343345642, 0.9992780685424805]",success,pending,,
+img_015640,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L02282_legitimate.png,legitimate,en,"EMPRESA
+Services
+Portfolio
+News
+About
+Contact
+Clients
+20 years
+Celebrating
+Powered By
+Empresa
+Home / Powered By Empresa
+You have recently visited a website powered by us...
+Thank you for taking the time to visit our web site by clicking on a link from one of our many client web sites.
+All of our web sites are developed and supported here by our experienced web technicians and the dynamic and interactive content you
+are likely to have experienced whilst visiting the previous web site will have been provided using our content management technology or
+through bespoke coding.
+We also manage the complete service for our clients, including domain registrations and renewals, hosting and 24x7x365 site monitoring
+and e-mail and webmail services, which means our clients have a one stop support contact to call upon for anything internet related.
+Find out more about our internet services by clicking here, alternatively feel free to navigate around our web site to find out what IT
+services we have to offer.
+This site uses cookies to provide functionality and enhance your experience.
+OK","EMPRESA
+Services
+Portfolio
+News
+About
+Contact
+Clients
+20 years
+Celebrating
+Powered By
+Empresa
+Home / Powered By Empresa
+You have recently visited a website powered by us...
+Thank you for taking the time to visit our web site by clicking on a link from one of our many client web sites.
+All of our web sites are developed and supported here by our experienced web technicians and the dynamic and interactive content you
+are likely to have experienced whilst visiting the previous web site will have been provided using our content management technology or
+through bespoke coding.
+We also manage the complete service for our clients, including domain registrations and renewals, hosting and 24x7x365 site monitoring
+and e-mail and webmail services, which means our clients have a one stop support contact to call upon for anything internet related.
+Find out more about our internet services by clicking here, alternatively feel free to navigate around our web site to find out what IT
+services we have to offer.
+This site uses cookies to provide functionality and enhance your experience.
+OK","[0.9996953010559082, 0.9999821186065674, 0.9999505281448364, 0.9999405145645142, 0.9999386072158813, 0.999973714351654, 0.9999432563781738, 0.9538959860801697, 0.9989382028579712, 0.9998635053634644, 0.9999211430549622, 0.9891825914382935, 0.9785603880882263, 0.9802467226982117, 0.9875438809394836, 0.9835461378097534, 0.9889240264892578, 0.9877223968505859, 0.9922219514846802, 0.9833391904830933, 0.9771174192428589, 0.9929308891296387, 0.9987799525260925]",success,pending,,
+img_015786,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L02429_legitimate.png,legitimate,en,"50
+50.
+Central
+o
+HOME
+CHARITY INFORMATION
+RULES & REGULATIONS
+ABOUT 5050 Central
+LAST DRAW
+Total raised for charity to date:
+2
+8
+vs Binghamton
+9
+Mar 8th, 2020
+3 6 5 5
+550/5
+Winning Number: #149055
+how to claim your prize
+f
+Recent Draw Results
+Date
+Event
+Winning#
+Pot Total
+Mar 7th, 2020
+vs Bridgeport
+#190295
+$12,385
+Mar 3rd, 2020
+Corn Hole Tourney
+#196962
+$200
+Feb 26th, 2020
+vs Providence
+#111413
+$2,785
+Feb 21st, 2020
+vs Hershey
+#245087
+$6,210
+Feb 8th, 2020
+vs Lehigh Valley
+#237602
+$11,485
+Feb 7th, 2020
+vs Hershey
+#145245
+$3,620
+Feb 5th, 2020
+vs Binghamton
+#214731
+$1,515
+Jan 31st, 2020
+Jan 31st and Feb 1st Powr Play
+#167869
+$13,810
+Jan 11th, 2020
+vs Hartford
+#111050
+$7,730
+Jan 10th, 2020
+vs Hershey
+#235835
+$3,970
+Jan 8th, 2020
+vs Charlotte
+#145993
+$1,460
+Jan 4th, 2020
+vs Springfield
+#243196
+$5,095","50
+50.
+Central
+o
+HOME
+CHARITY INFORMATION
+RULES & REGULATIONS
+ABOUT 5050 Central
+LAST DRAW
+Total raised for charity to date:
+2
+8
+vs Binghamton
+9
+Mar 8th, 2020
+3 6 5 5
+550/5
+Winning Number: #149055
+how to claim your prize
+f
+Recent Draw Results
+Date
+Event
+Winning#
+Pot Total
+Mar 7th, 2020
+vs Bridgeport
+#190295
+$12,385
+Mar 3rd, 2020
+Corn Hole Tourney
+#196962
+$200
+Feb 26th, 2020
+vs Providence
+#111413
+$2,785
+Feb 21st, 2020
+vs Hershey
+#245087
+$6,210
+Feb 8th, 2020
+vs Lehigh Valley
+#237602
+$11,485
+Feb 7th, 2020
+vs Hershey
+#145245
+$3,620
+Feb 5th, 2020
+vs Binghamton
+#214731
+$1,515
+Jan 31st, 2020
+Jan 31st and Feb 1st Powr Play
+#167869
+$13,810
+Jan 11th, 2020
+vs Hartford
+#111050
+$7,730
+Jan 10th, 2020
+vs Hershey
+#235835
+$3,970
+Jan 8th, 2020
+vs Charlotte
+#145993
+$1,460
+Jan 4th, 2020
+vs Springfield
+#243196
+$5,095","[0.9944506287574768, 0.6279247403144836, 0.9987692832946777, 0.7443504929542542, 0.9999368190765381, 0.9838985800743103, 0.9903620481491089, 0.966472327709198, 0.9997667670249939, 0.9808429479598999, 0.9999384880065918, 0.9998973608016968, 0.999434769153595, 0.5087701678276062, 0.98394775390625, 0.900429368019104, 0.7725533246994019, 0.9901476502418518, 0.9606022238731384, 0.9968428611755371, 0.9980876445770264, 0.9997090101242065, 0.999962329864502, 0.9998818039894104, 0.9842612743377686, 0.9995768070220947, 0.9978646636009216, 0.9999927878379822, 0.9999507069587708, 0.9987900257110596, 0.9763661623001099, 0.999966025352478, 0.9999741315841675, 0.9868093132972717, 0.976477861404419, 0.999914288520813, 0.9999274611473083, 0.9738560914993286, 0.9786173105239868, 0.9999837279319763, 0.9770509600639343, 0.9503768682479858, 0.9940779805183411, 0.9999911189079285, 0.999968409538269, 0.9704608917236328, 0.9998381733894348, 0.9999906420707703, 0.9999222755432129, 0.9988977909088135, 0.9993149042129517, 0.9999900460243225, 0.9996921420097351, 0.9778620004653931, 0.9943702220916748, 0.9999455213546753, 0.9297713041305542, 0.9880695343017578, 0.987104594707489, 0.9999809861183167, 0.9999639391899109, 0.9891233444213867, 0.9998357892036438, 0.9999828934669495, 0.9999051094055176, 0.9997138381004333, 0.9996457099914551, 0.9999903440475464, 0.8626629710197449, 0.9997717142105103, 0.9832601547241211, 0.9999945759773254, 0.9999033808708191]",success,pending,,
+img_015920,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L02566_legitimate.png,legitimate,en,"VARC
+008
+W
+SEARCH
+VALUE-ADDED RESEARCH CENTER
+HOME
+ABOUT VARC
+WHAT WE DO
+UNIVERSITY OF WISCONSIN-MADISON
+WHERE WE WORK
+RESOURCES
+Education Analytics to
+Support Students
+Improving educational outcomes is challenging, but VARC can
+provide analytics,
+, research, and tools that support educators
+in providing
+; a quality
+education for all students.
+LEARN MORE>
+1
+2
+3
+4
+Value-Added, Growth
+Education Policy
+Professional Development,
+Education Research
+Measures, & Analytics
+Design fair and equitable
+Reports, & Technical
+Innovative research to inform
+Choose the right measures and
+evaluation systems
+Assistance
+your work
+analytics to support student
+Build staff capacity and earn
+learning
+stakeholder buy-in
+PARTNER PROFILES
+NEWS & PUBLICATIONS
+VARC strives to provide the highest quality analytics, tools, and
+From facilitating trainings at school districts to presenting our
+resources to our partners, which include school districts, state
+latest research findings at national conferences, VARC is a leader
+departments of education, local and state education agencies,
+in education. READ MORE 
+non-profits, and advocacy organizations across the country. Hear
+from our partners at Hillsborough County Public Schools. READ
+MORE
+VARC is housed within the Wisconsin Center for Education Research at the School of Education, University of Wisconsin-Madison.
+COPYRIGHT ©2013 THE BOARD OF REGENTS OF THE UNIVERSITY OF WISCONSIN SYSTEM, SITEMAP","VARC
+008
+W
+SEARCH
+VALUE-ADDED RESEARCH CENTER
+HOME
+ABOUT VARC
+WHAT WE DO
+UNIVERSITY OF WISCONSIN-MADISON
+WHERE WE WORK
+RESOURCES
+Education Analytics to
+Support Students
+Improving educational outcomes is challenging, but VARC can
+provide analytics,
+, research, and tools that support educators
+in providing
+; a quality
+education for all students.
+LEARN MORE>
+1
+2
+3
+4
+Value-Added, Growth
+Education Policy
+Professional Development,
+Education Research
+Measures, & Analytics
+Design fair and equitable
+Reports, & Technical
+Innovative research to inform
+Choose the right measures and
+evaluation systems
+Assistance
+your work
+analytics to support student
+Build staff capacity and earn
+learning
+stakeholder buy-in
+PARTNER PROFILES
+NEWS & PUBLICATIONS
+VARC strives to provide the highest quality analytics, tools, and
+From facilitating trainings at school districts to presenting our
+resources to our partners, which include school districts, state
+latest research findings at national conferences, VARC is a leader
+departments of education, local and state education agencies,
+in education. READ MORE
+non-profits, and advocacy organizations across the country. Hear
+from our partners at Hillsborough County Public Schools. READ
+MORE
+VARC is housed within the Wisconsin Center for Education Research at the School of Education, University of Wisconsin-Madison.
+COPYRIGHT ©2013 THE BOARD OF REGENTS OF THE UNIVERSITY OF WISCONSIN SYSTEM, SITEMAP","[0.9998593330383301, 0.5192742347717285, 0.9644914269447327, 0.999943196773529, 0.9996859431266785, 0.9999176859855652, 0.9783560633659363, 0.9995242357254028, 0.995220959186554, 0.999667763710022, 0.9999160766601562, 0.9967125058174133, 0.9999277591705322, 0.9809892177581787, 0.9964272975921631, 0.9829382300376892, 0.9620420336723328, 0.9500933289527893, 0.9832532405853271, 0.9316995143890381, 0.9929918050765991, 0.9998701810836792, 0.9998519420623779, 0.9999337196350098, 0.999709963798523, 0.9999379515647888, 0.999901533126831, 0.9998791813850403, 0.9994148015975952, 0.9739948511123657, 0.9945552945137024, 0.9992682337760925, 0.9786171317100525, 0.9755322337150574, 0.9998804330825806, 0.9995639324188232, 0.9859363436698914, 0.9919342994689941, 0.9995678663253784, 0.9848030805587769, 0.9994951486587524, 0.992620050907135, 0.9853299856185913, 0.985913097858429, 0.9992196559906006, 0.9941787719726562, 0.9928723573684692, 0.9705657958984375, 0.9976325631141663, 0.9871681332588196, 0.9989722967147827, 0.98317551612854, 0.9824293255805969]",success,pending,,
+img_016737,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L03407_legitimate.png,legitimate,en,"BOOK/SHOP
+PALOMA
+SHOP
+Private in salon
+appointments available for extra safety: call
+ABOUT
+832 516
+9628
+or
+txt
+713
+373
+5946
+SERVICES
+PRIVATE
+PARTIES
+NEWS
+PRESS
+CONTACT
+OUR
+MISSION
+PALOMA
+IS
+A
+CLEAN
+BEAUTY
+DES
+IIN
+ION
+FOUNDED
+ON
+THE
+BELIER
+THA T
+EAU
+AND
+WEL
+NESS
+CAN
+COEXIST.
+OUR
+VISIO
+IS
+SIM
+F:
+""Q
+SET
+4
+HIGHER
+STAND
+aRD.
+WE
+BELIEVE
+THAT
+NO
+HARM.
+We appreciate the value of peace of mind and recognize that the difference is in the
+details. To this end, we've created a luxurious space where you can expect unparalleled
+service at an approachable price and shop a thoughtfully curated selection of effective","BOOK/SHOP
+PALOMA
+SHOP
+Private in salon
+appointments available for extra safety: call
+ABOUT
+832 516
+9628
+or
+txt
+713
+373
+5946
+SERVICES
+PRIVATE
+PARTIES
+NEWS
+PRESS
+CONTACT
+OUR
+MISSION
+PALOMA
+IS
+A
+CLEAN
+BEAUTY
+DES
+IIN
+ION
+FOUNDED
+ON
+THE
+BELIER
+THA T
+EAU
+AND
+WEL
+NESS
+CAN
+COEXIST.
+OUR
+VISIO
+IS
+SIM
+F:
+""Q
+SET
+HIGHER
+STAND
+aRD.
+WE
+BELIEVE
+THAT
+NO
+HARM.
+We appreciate the value of peace of mind and recognize that the difference is in the
+details. To this end, we've created a luxurious space where you can expect unparalleled
+service at an approachable price and shop a thoughtfully curated selection of effective","[0.9991235733032227, 0.9989321231842041, 0.9993406534194946, 0.9815682768821716, 0.9984926581382751, 0.9996148943901062, 0.9925941824913025, 0.9999895095825195, 0.9997652769088745, 0.9994341731071472, 0.9999930262565613, 0.9999691843986511, 0.9999828338623047, 0.999984622001648, 0.9997053742408752, 0.9999170899391174, 0.999832272529602, 0.9999381899833679, 0.9998617768287659, 0.9689860939979553, 0.9998308420181274, 0.9999041557312012, 0.9920668601989746, 0.9996503591537476, 0.9999744296073914, 0.9997519850730896, 0.9898818135261536, 0.699760913848877, 0.9964463710784912, 0.9997330904006958, 0.9987517595291138, 0.9999385476112366, 0.9852165579795837, 0.9541854858398438, 0.9997394680976868, 0.9996733069419861, 0.9883074760437012, 0.9999845027923584, 0.9999211430549622, 0.9984431266784668, 0.9995949268341064, 0.9986323118209839, 0.9979472160339355, 0.9993389248847961, 0.7337043285369873, 0.4999074935913086, 0.9999529719352722, 0.9999693036079407, 0.9996526837348938, 0.7682716250419617, 0.9914158582687378, 0.9999657273292542, 0.9977220892906189, 0.9993313550949097, 0.9995995759963989, 0.9754517078399658, 0.9870862364768982, 0.9785866737365723]",success,pending,,
+img_016936,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L03609_legitimate.png,legitimate,en,"UKV
+Men's
+Women's
+Equipment
+Dealers
+Help Desk
+About Us
+Q
+8
+MOUNTAIN
+EQUIPMENT
+The Longest Climb
+Ascending
+Mont Blanc via the
+magnificent Peuterey Integral Ridge.
+Read More
+7
+Sign up for our newsletter
+Delivery
+Returns
+Terms & Conditions
+Legal Statement
+Modern Slavery Statement
+Privacy Policy
+Contact Us
+This website uses cookies to ensure you get the best experience on our website. Learn more
+I Accept","UKV
+Men's
+Women's
+Equipment
+Dealers
+Help Desk
+About Us
+Q
+MOUNTAIN
+EQUIPMENT
+The Longest Climb
+Ascending
+Mont Blanc via the
+magnificent Peuterey Integral Ridge.
+Read More
+Sign up for our newsletter
+Delivery
+Returns
+Terms & Conditions
+Legal Statement
+Modern Slavery Statement
+Privacy Policy
+Contact Us
+This website uses cookies to ensure you get the best experience on our website. Learn more
+I Accept","[0.9303939938545227, 0.9998173713684082, 0.9988088011741638, 0.9998248219490051, 0.9999595284461975, 0.9995456337928772, 0.9855514764785767, 0.8844648003578186, 0.9989825487136841, 0.9946165084838867, 0.9842298030853271, 0.9999655485153198, 0.9766220450401306, 0.9959965944290161, 0.9930269718170166, 0.999717652797699, 0.9999560117721558, 0.9999297261238098, 0.9996592402458191, 0.9671069979667664, 0.986525297164917, 0.9992352724075317, 0.9814435839653015, 0.9622772932052612, 0.9826712012290955]",success,pending,,
+img_017781,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L04464_legitimate.png,legitimate,no,"Sykepleien
+Nyheter Fag Forskning Meninger
+Blogg
+Tema_ Student_ Korona_ Stillinger
+Q
+, Søk
+Sykepleien jobb
+Autorisert sykepleier
+Nøkkelord
+For 3 dager siden
+Trondheim
+•Trondhjems Hospital
+TRONDHJEMS
+HOSPITAL
+Sted
+Til deg som trives i eldreomsorgen
+Om stillingen
+Sektor
+Diabetessykepleier 80 % stilling
+Kategori
+For 4 dager siden
+● Oslo
+Arbeidsfelt
+Norsk Diabetessenter
+R
+T
+•
+Jobbtype
+Norsk Diabetessenter er landets største
+Arbeidstid
+poliklinikk for ungdom og voksne med
+type i-diabetes.
+Søk
+Operasjonssykepleier
+For 5 dager siden
+• Tromsø
+• Troms og Finnmark fylkeskommune
+Romssa ja Finnmárkku fylkkagielda
+Troms og Finnmark fylkeskommune
+Ved tannbygget er det for tiden ledig fast
+Tromssan ja Finmarkun fylkinkomuuni
+100 % stilling som operasjonssykepleier.","Sykepleien
+Nyheter Fag Forskning Meninger
+Blogg
+Tema_ Student_ Korona_ Stillinger
+Q
+, Søk
+Sykepleien jobb
+Autorisert sykepleier
+Nøkkelord
+For 3 dager siden
+Trondheim
+•Trondhjems Hospital
+TRONDHJEMS
+HOSPITAL
+Sted
+Til deg som trives i eldreomsorgen
+Om stillingen
+Sektor
+Diabetessykepleier 80 % stilling
+Kategori
+For 4 dager siden
+● Oslo
+Arbeidsfelt
+Norsk Diabetessenter
+R
+Jobbtype
+Norsk Diabetessenter er landets største
+Arbeidstid
+poliklinikk for ungdom og voksne med
+type i-diabetes.
+Søk
+Operasjonssykepleier
+For 5 dager siden
+• Tromsø
+• Troms og Finnmark fylkeskommune
+Romssa ja Finnmárkku fylkkagielda
+Troms og Finnmark fylkeskommune
+Ved tannbygget er det for tiden ledig fast
+Tromssan ja Finmarkun fylkinkomuuni
+100 % stilling som operasjonssykepleier.","[0.9999798536300659, 0.9752822518348694, 0.999935507774353, 0.9267091751098633, 0.5582661628723145, 0.9116172790527344, 0.9997118711471558, 0.9999690055847168, 0.9997328519821167, 0.9800854921340942, 0.9999291300773621, 0.9823958277702332, 0.99977046251297, 0.9998738765716553, 0.999964714050293, 0.9985995292663574, 0.9763955473899841, 0.9999592304229736, 0.9942025542259216, 0.9998396635055542, 0.9970089197158813, 0.8533509373664856, 0.9999502301216125, 0.9996760487556458, 0.6929891705513, 0.9999030828475952, 0.994886040687561, 0.9999033212661743, 0.9960403442382812, 0.9883958101272583, 0.9886386394500732, 0.9999375343322754, 0.9805400967597961, 0.8657116889953613, 0.986349880695343, 0.9792406558990479, 0.9996055364608765, 0.9958024024963379, 0.9873286485671997, 0.9931570291519165]",success,reviewed,Good,"Norwegian OCR successfully extracted the website navigation, job listings, locations and job descriptions. Minor recognition errors were observed."
+img_018340,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L05034_legitimate.png,legitimate,en,"rawpixel
+Free
+Premium
+Public Domain
+Creative Boards Login
+Join Free
+Q
+Paul Cézanne X
+Start searching..
+Images
+Share
+Paul Cézanne
+PAUL CÉZANNE HIGH RESOLUTION POST-IMPRESSIONIST PAINTINGS
+Paul Cézanne (1839—1906) was one of the greatest French painters of Post-Impressionism. He was known as the ""Master of Aix"" because of how
+he portrayed the beauty of nature in Aix-en-Provence, his ancestral home in the South of France. His artistic style of repetitive and exploratory
+brushstrokes made his works recognizable and paved the way for modern art and Cubism. Cezanne transitioned the art world and influenced many of the
+20th-century artists. We have digitally enhanced Cezanne's artworks in high-resolution printable quality. They are free to download under the Cc0 license.
+This website uses cookies to ensure you get the best experience on our website. More info
+OK","rawpixel
+Free
+Premium
+Public Domain
+Creative Boards Login
+Join Free
+Q
+Paul Cézanne X
+Start searching..
+Images
+Share
+Paul Cézanne
+PAUL CÉZANNE HIGH RESOLUTION POST-IMPRESSIONIST PAINTINGS
+Paul Cézanne (1839—1906) was one of the greatest French painters of Post-Impressionism. He was known as the ""Master of Aix"" because of how
+he portrayed the beauty of nature in Aix-en-Provence, his ancestral home in the South of France. His artistic style of repetitive and exploratory
+brushstrokes made his works recognizable and paved the way for modern art and Cubism. Cezanne transitioned the art world and influenced many of the
+20th-century artists. We have digitally enhanced Cezanne's artworks in high-resolution printable quality. They are free to download under the Cc0 license.
+This website uses cookies to ensure you get the best experience on our website. More info
+OK","[0.9946518540382385, 0.999808132648468, 0.9995747804641724, 0.9844547510147095, 0.9767512083053589, 0.9865071773529053, 0.9826032519340515, 0.9683806300163269, 0.987506091594696, 0.9997930526733398, 0.9999536275863647, 0.986356258392334, 0.9916248917579651, 0.9875419735908508, 0.9938434362411499, 0.9930586218833923, 0.9856254458427429, 0.9834990501403809, 0.9991946220397949]",success,pending,,
+img_018700,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L05398_legitimate.png,legitimate,en,"ACADEMIC
+TBOOK
+WEEK
+Home
+About
+Events
+Recommended Reads
+Downloads
+Register Event
+Contact
+ACADEMIC
+BOOK
+#academicbookweek
+WEEK
+Academic Book Week is an annual, five-day celebration of the diversity, innovation and influence of academic books run by the Booksellers Association.
+Academic Book Week returns in 2020, Monday 9  Friday 13 March. This year's campaign theme is 'Academic Books and the Environment'.
+""Since its inception, Academic Book Week has become an increasingly important event for campus booksellers. It is our opportunity, each year, to demonstrate engagement with academic
+authorship and to celebrate academic works which have advanced our understanding of the world. This year's theme of 'Academic Books and The Environment' could not be more relevant
+and timely and I am excited to see how campus booksellers, academics and students interact with each other in order to curate bookselling events, with the aim of growing awareness of
+the incredible research and writing UK academics are providing on this subject."" will williams, Head of Academic Sales, Blackwell's Bookshops
+From debates, workshops and seminars to exhibitions and competitions, Academic Book Week aims to open up a dialogue between the makers, providers and readers of academic books,
+and to increase awareness of the academic book, alerting policy-makers to its importance as part of the intellectual ecosystem of the UK.
+To view the full list of events happening during Academic Book Week, click here.","ACADEMIC
+TBOOK
+WEEK
+Home
+About
+Events
+Recommended Reads
+Downloads
+Register Event
+Contact
+ACADEMIC
+BOOK
+#academicbookweek
+WEEK
+Academic Book Week is an annual, five-day celebration of the diversity, innovation and influence of academic books run by the Booksellers Association.
+Academic Book Week returns in 2020, Monday 9 Friday 13 March. This year's campaign theme is 'Academic Books and the Environment'.
+""Since its inception, Academic Book Week has become an increasingly important event for campus booksellers. It is our opportunity, each year, to demonstrate engagement with academic
+authorship and to celebrate academic works which have advanced our understanding of the world. This year's theme of 'Academic Books and The Environment' could not be more relevant
+and timely and I am excited to see how campus booksellers, academics and students interact with each other in order to curate bookselling events, with the aim of growing awareness of
+the incredible research and writing UK academics are providing on this subject."" will williams, Head of Academic Sales, Blackwell's Bookshops
+From debates, workshops and seminars to exhibitions and competitions, Academic Book Week aims to open up a dialogue between the makers, providers and readers of academic books,
+and to increase awareness of the academic book, alerting policy-makers to its importance as part of the intellectual ecosystem of the UK.
+To view the full list of events happening during Academic Book Week, click here.","[0.9997003078460693, 0.7938202023506165, 0.999660074710846, 0.9998245239257812, 0.9999594688415527, 0.9997676014900208, 0.9998005032539368, 0.9999040961265564, 0.999918520450592, 0.9999755620956421, 0.9993915557861328, 0.9990168809890747, 0.9986649751663208, 0.9972504377365112, 0.979526162147522, 0.9817423820495605, 0.9903123378753662, 0.9829295873641968, 0.9898042678833008, 0.987476646900177, 0.9893283843994141, 0.9824998378753662, 0.9770585894584656]",success,pending,,
+img_018951,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L05654_legitimate.png,legitimate,en,"20-26 June 2019
+ABOUT
+EXHIBITORS
+VISITORS
+MEDIA
+INNOVATION LABHIGHLIGHTSCONTACT
+LOGIN
+a
+Fira de Barcelona, Gran Via
+ITMA 2019
+Barcelona, Spain
+08
+14
+JUNE 2023
+FIERA MILANO RHO
+ITMA 2023
+MILAN. ITALY
+NEW WEBSITE LAUNCHING
+JANUARY 2021
+JOIN ITMA NETWORK
+Join ITMA Network for timely updates
+Our website uses cookies to improve your web experience.
+X
+Accept and close
+Find out more","20-26 June 2019
+ABOUT
+EXHIBITORS
+VISITORS
+MEDIA
+INNOVATION LABHIGHLIGHTSCONTACT
+LOGIN
+Fira de Barcelona, Gran Via
+ITMA 2019
+Barcelona, Spain
+08
+14
+JUNE 2023
+FIERA MILANO RHO
+ITMA 2023
+MILAN. ITALY
+NEW WEBSITE LAUNCHING
+JANUARY 2021
+JOIN ITMA NETWORK
+Join ITMA Network for timely updates
+Our website uses cookies to improve your web experience.
+X
+Accept and close
+Find out more","[0.9762439727783203, 0.9999185800552368, 0.9997453689575195, 0.9998536109924316, 0.9976134300231934, 0.9747822284698486, 0.9999586343765259, 0.9989987015724182, 0.9925669431686401, 0.9989826679229736, 0.9998675584793091, 0.9999905824661255, 0.9984696507453918, 0.9996888637542725, 0.9995350241661072, 0.9775066375732422, 0.9995228052139282, 0.9810392260551453, 0.9952964782714844, 0.998936653137207, 0.9894185662269592, 0.7806710004806519, 0.9994377493858337, 0.9981626868247986]",success,pending,,
+img_018965,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L05668_legitimate.png,legitimate,fr,"SIMOP
+Rechercher un produit. …
+Q
+ENREGISTRER MON PRODUIT
+EQUIPEMENTS POUR L'ENVIRONNEMENT
+Accueil
+A propos
+Traitement des eaux
+Industrie
+Actualités
+Contact
+Redonnons le meilleur à la terre
+Traitement
+des
+eaux pluviales
+Séparateurs d'hydrocarbures
+Décanteurs particulaires
+Equipements de bassins
+Aquamop
+Voir les produits
+BÂTIMENT
+&
+INDUSTRIE
+TRAVAUX PUBLICS
+Découvrir
+Découvrir","SIMOP
+Rechercher un produit. …
+Q
+ENREGISTRER MON PRODUIT
+EQUIPEMENTS POUR L'ENVIRONNEMENT
+Accueil
+A propos
+Traitement des eaux
+Industrie
+Actualités
+Contact
+Redonnons le meilleur à la terre
+Traitement
+des
+eaux pluviales
+Séparateurs d'hydrocarbures
+Décanteurs particulaires
+Equipements de bassins
+Aquamop
+Voir les produits
+BÂTIMENT
+&
+INDUSTRIE
+TRAVAUX PUBLICS
+Découvrir
+Découvrir","[0.980476975440979, 0.9522870182991028, 0.5170471668243408, 0.9995250701904297, 0.9981756210327148, 0.9998812675476074, 0.9928481578826904, 0.9922192096710205, 0.9998669028282166, 0.9998986124992371, 0.999870240688324, 0.9659073352813721, 0.997991681098938, 0.9970080256462097, 0.9945934414863586, 0.9799354076385498, 0.9996721148490906, 0.9881927371025085, 0.999470591545105, 0.9505293369293213, 0.9903032779693604, 0.9998728036880493, 0.9995336532592773, 0.9956766366958618, 0.9986352920532227, 0.9932984113693237]",success,reviewed,Good,"French OCR successfully extracted the SIMOP website name, navigation, environmental equipment categories and main service headings."
+img_019010,D:\DEPI Graduation Project\computer_vision_milstone\data\legitimate\L05715_legitimate.png,legitimate,de,"Jagdpraxis
+Das Online-Magazin für News & Ausrüstung
+Startseite
+Ausrüstung
+V
+Produkttests
+DAS Thema
+V
+Service
+NEWSLETTER
+4 Jetzt zum Jagdpraxis-Newsletter anmelden!
+HÄUFIG GELESEN
+Kommentar:
+Kitze jetzt erlegen
+11.September 2020 -11:45
+Erstellt in: DAS Thema
+Kommentar: Erst retten, dann
+töten?
+DAS THEMA
+NEWS
+NEWS
+DAS THEMA
+Cookies erleichtern die Bereitstellung unserer Dienste.Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies und weitere Dienste verwenden. Genaue Informationen über
+zustimmen","Jagdpraxis
+Das Online-Magazin für News & Ausrüstung
+Startseite
+Ausrüstung
+Produkttests
+DAS Thema
+V
+Service
+NEWSLETTER
+4 Jetzt zum Jagdpraxis-Newsletter anmelden!
+HÄUFIG GELESEN
+Kommentar:
+Kitze jetzt erlegen
+11.September 2020 -11:45
+Erstellt in: DAS Thema
+Kommentar: Erst retten, dann
+töten?
+DAS THEMA
+NEWS
+NEWS
+DAS THEMA
+Cookies erleichtern die Bereitstellung unserer Dienste.Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies und weitere Dienste verwenden. Genaue Informationen über
+zustimmen","[0.8725419044494629, 0.9956885576248169, 0.9999634027481079, 0.9998106956481934, 0.9995241761207581, 0.9994027018547058, 0.6321824193000793, 0.9981746077537537, 0.9999143481254578, 0.9911732077598572, 0.9993707537651062, 0.999751091003418, 0.9990742206573486, 0.9884634017944336, 0.9901193976402283, 0.9977606534957886, 0.9995546936988831, 0.9804398417472839, 0.9994495511054993, 0.9980996251106262, 0.9804398417472839, 0.9940452575683594, 0.9998229146003723]",success,reviewed,Good,"German OCR successfully extracted the magazine title, navigation, newsletter content and cookie notice. The main text was readable."

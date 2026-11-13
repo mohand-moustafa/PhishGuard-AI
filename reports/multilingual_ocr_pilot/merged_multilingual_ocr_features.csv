@@ -1,0 +1,49 @@
+﻿image_id,label,ocr_text_length,ocr_word_count,ocr_line_count,ocr_mean_confidence,ocr_keyword_count,ocr_processing_time_seconds,ocr_status,ocr_has_login,ocr_has_password,ocr_has_verify,ocr_has_account,ocr_has_bank,ocr_has_card,ocr_model_language,multilingual_total_matches,multilingual_matched_keywords,multilingual_authentication_count,multilingual_authentication_present,multilingual_credentials_count,multilingual_credentials_present,multilingual_account_security_count,multilingual_account_security_present,multilingual_financial_count,multilingual_financial_present,multilingual_urgency_count,multilingual_urgency_present
+img_000642,phishing,1154,208,19,0.9772576030931974,0,63.70182060000025,success,0,0,0,0,0,0,en,9,"warning, warning, flagged, potentially harmful, flagged, warning, flagged, flagged, flagged",0,0,0,0,0,0,0,0,9,1
+img_001203,phishing,334,60,18,0.9090140892399682,0,36.31382609999946,success,0,0,0,0,0,0,ar,0,,0,0,0,0,0,0,0,0,0,0
+img_001688,phishing,114,20,4,0.9831134974956512,0,32.245750600000065,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_001810,phishing,113,21,7,0.9828175732067653,7,29.58425460000035,success,0,1,0,1,0,0,en,8,"account, log in, log in, log in, email, password, password, log in",4,1,3,1,1,1,0,0,0,0
+img_001981,phishing,1047,174,54,0.9774178100956811,17,43.00375460000032,success,1,0,0,1,1,1,en,12,"card, account, suspended, bank, card, security, credit card, credit card, account, login, card, security",1,1,0,0,5,1,6,1,0,0
+img_002134,phishing,237,34,9,0.9938363167974684,0,28.858226399999694,success,0,0,0,0,0,0,es,8,"online banking, sincronización, cuentas, email, clave, correo electrónico, online banking, seguridad",2,1,3,1,3,1,0,0,0,0
+img_002178,phishing,508,74,15,0.958582588036855,6,40.05261969999992,success,0,1,0,0,1,0,en,10,"online banking, username, password, log in, username, password, online banking, identity, security, bank",3,1,4,1,2,1,1,1,0,0
+img_002551,phishing,356,54,22,0.9471923993392424,6,50.347362299999986,success,1,1,0,0,0,0,en,10,"login, password, email, password, email, email, password, email address, login, login",3,1,7,1,0,0,0,0,0,0
+img_002878,phishing,715,108,54,0.9673222678679007,11,30.93793630000073,success,0,1,0,0,0,1,en,11,"email, password, security, security, card, card, card, card, verification, card, security",0,0,2,1,4,1,5,1,0,0
+img_003131,phishing,170,32,17,0.9951287998872644,4,26.07612590000008,success,0,0,0,1,0,0,en,5,"sign in, update, account, email, sign in",2,1,1,1,2,1,0,0,0,0
+img_003308,phishing,477,74,27,0.9926122095849779,5,30.68522110000049,success,0,1,0,1,0,0,en,9,"account, email, account, email, sign in, email address, email, password, security",1,1,5,1,3,1,0,0,0,0
+img_003456,phishing,217,28,8,0.9839958548545837,3,24.97498859999996,success,0,1,1,0,0,0,en,6,"verify, email, email, email, password, verify",0,0,4,1,2,1,0,0,0,0
+img_003594,phishing,280,50,12,0.9326783716678619,3,31.868310300000303,success,0,1,0,0,0,0,en,5,"sign in, email, email, password, sign in",2,1,3,1,0,0,0,0,0,0
+img_003645,phishing,142,26,8,0.9900105968117714,5,25.440174399999705,success,0,0,0,1,0,0,en,6,"sign in, email, account, sign in, security, sign in",3,1,1,1,2,1,0,0,0,0
+img_003839,phishing,389,49,17,0.8643769762095284,2,35.08285280000018,success,1,1,0,0,0,0,id,7,"login, nonaktifkan, pemblokiran, nama, email, nomor telepon, password",1,1,4,1,2,1,0,0,0,0
+img_003914,phishing,540,89,16,0.9764458164572716,3,32.04250150000007,success,0,1,0,0,0,0,en,5,"email address, password, email address, password, confirm",0,0,4,1,1,1,0,0,0,0
+img_004267,phishing,795,131,45,0.9876589881049262,5,146.35120650000044,success,0,0,1,1,0,0,en,6,"security, account, access, verify, security, security",1,1,0,0,5,1,0,0,0,0
+img_004517,phishing,336,51,24,0.9450187062223753,0,47.29811729999892,success,0,0,0,0,0,0,tr,8,"hemen, katıl, oturum aç, oturum açın, profesyonel e-posta, telefon, şifre, şifrenizi",3,1,4,1,0,0,0,0,1,1
+img_004632,phishing,379,61,25,0.9485845565795898,0,27.67922290000024,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_004734,phishing,373,58,31,0.983383140256328,9,28.312428100000034,success,0,1,0,0,0,0,en,13,"email address, email address, password, password, email, password, password, email, password, sign in, sign in, sign in, sign in",4,1,9,1,0,0,0,0,0,0
+img_005363,phishing,253,45,13,0.9914879753039434,6,24.904340500000217,success,0,1,0,1,0,0,en,7,"log in, log in, email address, password, log in, account, account",3,1,2,1,2,1,0,0,0,0
+img_005654,phishing,307,44,14,0.9856664921556201,4,26.0085853999999,success,0,0,0,1,1,0,en,6,"account, verification, access, email address, security, bank",1,1,1,1,3,1,1,1,0,0
+img_005674,phishing,672,117,61,0.9386800928194015,14,33.55460370000037,success,0,0,0,0,1,1,en,9,"security, confirm, credit card, credit card, card, credit card, bank, bank, bank",0,0,0,0,2,1,7,1,0,0
+img_006106,phishing,786,121,44,0.9805158850821581,13,33.90022399999998,success,1,0,1,0,0,0,en,13,"security, verification, verify, identity, verify, billing, identity, verification, billing, verification, login, suspicious, login",2,1,0,0,8,1,2,1,1,1
+img_006144,legitimate,1127,173,49,0.9873488934672608,0,51.143937700000606,success,0,0,0,0,0,0,fr,0,,0,0,0,0,0,0,0,0,0,0
+img_006861,legitimate,3470,765,158,0.9519354621820812,0,146.4490421999999,success,0,0,0,0,0,0,th,0,,0,0,0,0,0,0,0,0,0,0
+img_007841,legitimate,1364,240,124,0.9338164187727436,0,47.868745100000524,success,0,0,0,0,0,0,ru,0,,0,0,0,0,0,0,0,0,0,0
+img_008111,legitimate,753,133,37,0.9906598700059427,0,49.21996219999983,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_008190,legitimate,296,59,16,0.9237661585211754,1,36.91577480000069,success,0,0,0,0,0,0,en,2,"log in, email",1,1,1,1,0,0,0,0,0,0
+img_009818,legitimate,544,81,31,0.945118913727422,0,32.847425299999486,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_010781,legitimate,2268,307,21,0.9826559935297284,0,52.0211718999999,success,0,0,0,0,0,0,ro,0,,0,0,0,0,0,0,0,0,0,0
+img_011305,legitimate,594,102,39,0.9772174694599249,2,34.323984000000564,success,0,0,0,0,0,0,en,1,log in,1,1,0,0,0,0,0,0,0,0
+img_011598,legitimate,2228,359,50,0.9796570432186127,3,46.827610399999685,success,0,0,0,1,0,0,en,4,"access, account, confirm, account",1,1,0,0,3,1,0,0,0,0
+img_013276,legitimate,478,68,26,0.9773811422861539,0,41.55314879999969,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_013515,legitimate,861,139,28,0.9731695801019669,5,32.32023649999974,success,0,0,0,0,0,1,en,5,"security, card, card, card, card",0,0,0,0,1,1,4,1,0,0
+img_013833,legitimate,2846,479,56,0.9858927120055471,1,45.684366199999204,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_014261,legitimate,2037,370,103,0.9781240253772551,6,44.327879599999505,success,0,1,0,0,0,0,en,7,"password, security, access, password, password, update, password",1,1,4,1,2,1,0,0,0,0
+img_015640,legitimate,1089,179,23,0.990963409776273,0,35.223385499999495,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_015786,legitimate,807,153,73,0.970818330980327,0,35.80776329999935,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_015920,legitimate,1433,206,53,0.980842594830495,0,41.56701989999965,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_016737,legitimate,605,108,58,0.9735227412190931,0,35.496653099999094,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_016936,legitimate,399,62,25,0.9848131489753723,0,30.159732400001303,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_017781,legitimate,755,100,40,0.9650159001350402,0,33.436696499999016,success,0,0,0,0,0,0,no,0,,0,0,0,0,0,0,0,0,0,0
+img_018340,legitimate,867,141,19,0.9895120451324865,1,32.31761000000006,success,1,0,0,0,0,0,en,1,login,1,1,0,0,0,0,0,0,0,0
+img_018700,legitimate,1489,229,23,0.9846666481183923,0,40.864960700000665,success,0,0,0,0,0,0,en,0,,0,0,0,0,0,0,0,0,0,0
+img_018951,legitimate,376,61,24,0.9856753175457319,1,30.904914099999587,success,1,0,0,0,0,0,en,1,login,1,1,0,0,0,0,0,0,0,0
+img_018965,legitimate,377,47,26,0.9724121919045081,0,29.088263599998754,success,0,0,0,0,0,0,fr,0,,0,0,0,0,0,0,0,0,0,0
+img_019010,legitimate,531,74,23,0.9745550984921663,0,35.07454260000122,success,0,0,0,0,0,0,de,0,,0,0,0,0,0,0,0,0,0,0

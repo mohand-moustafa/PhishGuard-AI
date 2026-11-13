@@ -1,0 +1,20 @@
+{
+  "project_root": "D:\\DEPI Graduation Project\\computer_vision_milstone",
+  "total_discovered_images": 19850,
+  "readable_images": 19832,
+  "unreadable_images": 18,
+  "fully_white_images": 169,
+  "unique_sha256_hashes": 15189,
+  "exact_duplicate_groups": 3038,
+  "images_in_exact_duplicate_groups": 7681,
+  "conflicting_label_groups": 5,
+  "images_in_conflicting_label_groups": 209,
+  "images_with_phash": 19832,
+  "near_duplicate_candidate_pairs": 215875,
+  "phash_hamming_distance_threshold": 5,
+  "final_cleaned_dataset_size": 15184,
+  "final_class_distribution": {
+    "phishing": 4752,
+    "legitimate": 10432
+  }
+}

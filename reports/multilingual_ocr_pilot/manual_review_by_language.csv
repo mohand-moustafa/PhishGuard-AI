@@ -1,0 +1,12 @@
+﻿ocr_model_language,label,Good,Partial
+ar,phishing,0,1
+de,legitimate,1,0
+en,phishing,3,1
+es,phishing,1,0
+fr,legitimate,2,0
+id,phishing,0,1
+no,legitimate,1,0
+ro,legitimate,1,0
+ru,legitimate,0,1
+th,legitimate,0,1
+tr,phishing,0,1

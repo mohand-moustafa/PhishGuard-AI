@@ -1,0 +1,49 @@
+﻿image_id,label,ocr_model_language,multilingual_total_matches,multilingual_matched_keywords,multilingual_authentication_count,multilingual_authentication_present,multilingual_credentials_count,multilingual_credentials_present,multilingual_account_security_count,multilingual_account_security_present,multilingual_financial_count,multilingual_financial_present,multilingual_urgency_count,multilingual_urgency_present
+img_000642,phishing,en,9,"warning, warning, flagged, potentially harmful, flagged, warning, flagged, flagged, flagged",0,0,0,0,0,0,0,0,9,1
+img_001203,phishing,ar,0,,0,0,0,0,0,0,0,0,0,0
+img_001688,phishing,en,0,,0,0,0,0,0,0,0,0,0,0
+img_001810,phishing,en,8,"account, log in, log in, log in, email, password, password, log in",4,1,3,1,1,1,0,0,0,0
+img_001981,phishing,en,12,"card, account, suspended, bank, card, security, credit card, credit card, account, login, card, security",1,1,0,0,5,1,6,1,0,0
+img_002134,phishing,es,8,"online banking, sincronización, cuentas, email, clave, correo electrónico, online banking, seguridad",2,1,3,1,3,1,0,0,0,0
+img_002178,phishing,en,10,"online banking, username, password, log in, username, password, online banking, identity, security, bank",3,1,4,1,2,1,1,1,0,0
+img_002551,phishing,en,10,"login, password, email, password, email, email, password, email address, login, login",3,1,7,1,0,0,0,0,0,0
+img_002878,phishing,en,11,"email, password, security, security, card, card, card, card, verification, card, security",0,0,2,1,4,1,5,1,0,0
+img_003131,phishing,en,5,"sign in, update, account, email, sign in",2,1,1,1,2,1,0,0,0,0
+img_003308,phishing,en,9,"account, email, account, email, sign in, email address, email, password, security",1,1,5,1,3,1,0,0,0,0
+img_003456,phishing,en,6,"verify, email, email, email, password, verify",0,0,4,1,2,1,0,0,0,0
+img_003594,phishing,en,5,"sign in, email, email, password, sign in",2,1,3,1,0,0,0,0,0,0
+img_003645,phishing,en,6,"sign in, email, account, sign in, security, sign in",3,1,1,1,2,1,0,0,0,0
+img_003839,phishing,id,7,"login, nonaktifkan, pemblokiran, nama, email, nomor telepon, password",1,1,4,1,2,1,0,0,0,0
+img_003914,phishing,en,5,"email address, password, email address, password, confirm",0,0,4,1,1,1,0,0,0,0
+img_004267,phishing,en,6,"security, account, access, verify, security, security",1,1,0,0,5,1,0,0,0,0
+img_004517,phishing,tr,8,"hemen, katıl, oturum aç, oturum açın, profesyonel e-posta, telefon, şifre, şifrenizi",3,1,4,1,0,0,0,0,1,1
+img_004632,phishing,en,0,,0,0,0,0,0,0,0,0,0,0
+img_004734,phishing,en,13,"email address, email address, password, password, email, password, password, email, password, sign in, sign in, sign in, sign in",4,1,9,1,0,0,0,0,0,0
+img_005363,phishing,en,7,"log in, log in, email address, password, log in, account, account",3,1,2,1,2,1,0,0,0,0
+img_005654,phishing,en,6,"account, verification, access, email address, security, bank",1,1,1,1,3,1,1,1,0,0
+img_005674,phishing,en,9,"security, confirm, credit card, credit card, card, credit card, bank, bank, bank",0,0,0,0,2,1,7,1,0,0
+img_006106,phishing,en,13,"security, verification, verify, identity, verify, billing, identity, verification, billing, verification, login, suspicious, login",2,1,0,0,8,1,2,1,1,1
+img_006144,legitimate,fr,0,,0,0,0,0,0,0,0,0,0,0
+img_006861,legitimate,th,0,,0,0,0,0,0,0,0,0,0,0
+img_007841,legitimate,ru,0,,0,0,0,0,0,0,0,0,0,0
+img_008111,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_008190,legitimate,en,2,"log in, email",1,1,1,1,0,0,0,0,0,0
+img_009818,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_010781,legitimate,ro,0,,0,0,0,0,0,0,0,0,0,0
+img_011305,legitimate,en,1,log in,1,1,0,0,0,0,0,0,0,0
+img_011598,legitimate,en,4,"access, account, confirm, account",1,1,0,0,3,1,0,0,0,0
+img_013276,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_013515,legitimate,en,5,"security, card, card, card, card",0,0,0,0,1,1,4,1,0,0
+img_013833,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_014261,legitimate,en,7,"password, security, access, password, password, update, password",1,1,4,1,2,1,0,0,0,0
+img_015640,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_015786,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_015920,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_016737,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_016936,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_017781,legitimate,no,0,,0,0,0,0,0,0,0,0,0,0
+img_018340,legitimate,en,1,login,1,1,0,0,0,0,0,0,0,0
+img_018700,legitimate,en,0,,0,0,0,0,0,0,0,0,0,0
+img_018951,legitimate,en,1,login,1,1,0,0,0,0,0,0,0,0
+img_018965,legitimate,fr,0,,0,0,0,0,0,0,0,0,0,0
+img_019010,legitimate,de,0,,0,0,0,0,0,0,0,0,0,0
