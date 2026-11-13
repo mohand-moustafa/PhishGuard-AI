@@ -1,0 +1,58 @@
+[
+  {
+    "filename": "007495_zenodo_27889_opensubtitles.com.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.9993457198143005,
+    "is_correct": true
+  },
+  {
+    "filename": "022728_phish360_P13885_att.png",
+    "true_label": "phishing",
+    "pred_label": "phishing",
+    "confidence": 0.9978493452072144,
+    "is_correct": true
+  },
+  {
+    "filename": "000709_zenodo_11604_suncoastcreditunion.com.png",
+    "true_label": "legitimate",
+    "pred_label": "phishing",
+    "confidence": 0.8026508092880249,
+    "is_correct": false
+  },
+  {
+    "filename": "019837_phish360_L06375_legitimate.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.9998555183410645,
+    "is_correct": true
+  },
+  {
+    "filename": "013180_zenodo_4817_syndicatedsearch.goog_aclk_sa_L_amp_ai_DChsSEwj6noOGt--PAxWKoFoFHWt4ANoYACI.png",
+    "true_label": "phishing",
+    "pred_label": "phishing",
+    "confidence": 0.9998724460601807,
+    "is_correct": true
+  },
+  {
+    "filename": "012292_zenodo_21512_rp.mockplus.com_run_3isFBq3ZLl_DnHiUf7a1j_cps_hide_rps_hide_nav_1_ha_0_la_.png",
+    "true_label": "phishing",
+    "pred_label": "legitimate",
+    "confidence": 0.971129298210144,
+    "is_correct": false
+  },
+  {
+    "filename": "012989_zenodo_29560_mezdra.com_wp-admin_wells_.png",
+    "true_label": "phishing",
+    "pred_label": "legitimate",
+    "confidence": 0.9997841715812683,
+    "is_correct": false
+  },
+  {
+    "filename": "003286_zenodo_17847_clearbit.com.png",
+    "true_label": "legitimate",
+    "pred_label": "legitimate",
+    "confidence": 0.9963353872299194,
+    "is_correct": true
+  }
+]
