@@ -1,0 +1,44 @@
+{
+  "selected_model": "Optuna",
+  "target_column": "target",
+  "class_mapping": {
+    "0": "Legitimate",
+    "1": "Phishing"
+  },
+  "feature_columns": [
+    "PC01",
+    "PC02",
+    "PC03",
+    "PC04",
+    "PC05",
+    "PC06",
+    "PC07",
+    "PC08",
+    "PC09",
+    "PC10",
+    "PC11",
+    "PC12",
+    "PC13",
+    "PC14",
+    "PC15",
+    "PC16",
+    "PC17",
+    "PC18",
+    "PC19",
+    "PC20",
+    "PC21",
+    "PC22",
+    "PC23",
+    "PC24",
+    "PC25"
+  ],
+  "feature_count": 25,
+  "sklearn_version": "1.8.0",
+  "cv": {
+    "type": "StratifiedKFold",
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42
+  },
+  "note": "Model expects PCA-transformed features in the recorded feature order."
+}

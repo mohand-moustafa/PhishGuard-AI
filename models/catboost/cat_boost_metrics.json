@@ -1,0 +1,17 @@
+[
+  {
+    "Metric": "AUC Score",
+    "Training Set": 0.9955583045794575,
+    "Test Set": 0.9863787292829488
+  },
+  {
+    "Metric": "Accuracy",
+    "Training Set": 0.9727468873797397,
+    "Test Set": 0.9510913912688699
+  },
+  {
+    "Metric": "F1-Score (Weighted)",
+    "Training Set": 0.9726726155978819,
+    "Test Set": 0.9513806605625095
+  }
+]

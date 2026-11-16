@@ -1,0 +1,43 @@
+{
+    "model_name": "SVM",
+    "model_file": "best_model.joblib",
+    "threshold": 0.5,
+    "features": [
+        "PC01",
+        "PC02",
+        "PC03",
+        "PC04",
+        "PC05",
+        "PC06",
+        "PC07",
+        "PC08",
+        "PC09",
+        "PC10",
+        "PC11",
+        "PC12",
+        "PC13",
+        "PC14",
+        "PC15",
+        "PC16",
+        "PC17",
+        "PC18",
+        "PC19",
+        "PC20",
+        "PC21",
+        "PC22",
+        "PC23",
+        "PC24",
+        "PC25"
+    ],
+    "metrics": {
+        "Accuracy": 0.95754965302704,
+        "Precision": 0.9169891899105832,
+        "Recall": 0.9628643497757847,
+        "F1-score": 0.9393670107321075,
+        "Specificity": 0.9547932262519079,
+        "ROC-AUC": 0.9840032142027215,
+        "PR-AUC": 0.9645658191975451
+    },
+    "sklearn_version": "1.8.0",
+    "xgboost_version": "3.4.1"
+}
