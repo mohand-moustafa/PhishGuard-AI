@@ -1,0 +1,28 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Dense passive calibration</title>
+<style>
+  body { font-family: sans-serif; margin: 14px; }
+  #sample { position:relative; width:150px; height:42px; }
+  #reference { width:100%; height:100%; }
+  #late { position:absolute; inset:0; opacity:.01; }
+  #grid { display:grid; grid-template-columns:repeat(9,68px); gap:2px; }
+  #static { opacity:.02; }
+</style>
+<h1>Coverage calibration</h1>
+<div id="sample"><button id="reference">Layout reference</button></div>
+<div id="grid"></div>
+<button id="static" onclick="this.title='Observed'">Inert visual calibration</button>
+<script>
+  for (let n=0; n<48; n++) {
+    const button = document.createElement("button");
+    button.id = "control-" + n;
+    button.textContent = String(n);
+    document.getElementById("grid").append(button);
+  }
+  setTimeout(() => {
+    const layer = document.createElement("div");
+    layer.id = "late";
+    document.getElementById("sample").append(layer);
+  },950);
+</script>

@@ -1,0 +1,41 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Offline layout calibration</title>
+<style>
+  body { font: 18px sans-serif; padding: 24px; }
+  .sample { position: relative; width: 200px; height: 56px; margin-bottom: 14px; }
+  .sample button { width: 100%; height: 100%; background: #cee2ff; }
+  #screen { position: absolute; inset: 0; opacity: .02; z-index: 1200; }
+  #decoration { position: absolute; inset: 0; opacity: 0; pointer-events: none; }
+  #empty { opacity: 0; }
+  #toggle { opacity: 0; }
+  #away { position: absolute; left: -600px; }
+</style>
+<h1>Layout calibration</h1>
+<p>These inert samples exercise the inspector's geometry and accessibility rules.</p>
+<div class="sample">
+  <button id="reference" type="button">Reference control</button>
+  <div id="screen"></div>
+</div>
+<div class="sample" id="decoration-sample">
+  <button id="decorated" type="button">Decorated control</button>
+</div>
+<button id="empty" type="button">Transparent calibration control</button>
+<label for="toggle">Styled checkbox</label><input id="toggle" type="checkbox">
+<a id="away" href="#other">Outside viewport</a>
+<a id="label-sample" href="https://destination.invalid/" aria-label="Calibration link">https://label.invalid/</a>
+<form id="inactive-form" hidden action="https://example.invalid/inactive">
+  <input aria-label="Inactive password field" type="password">
+</form>
+<div id="frame-sample"></div>
+<script>
+  const decoration = document.createElement("div");
+  decoration.id = "decoration";
+  document.getElementById("decoration-sample").append(decoration);
+  const frame = document.createElement("iframe");
+  frame.id = "calibration-frame";
+  frame.title = "Calibration frame";
+  frame.srcdoc = '<button id="frame-marker">Frame reference</button>';
+  frame.style.opacity = "0";
+  document.getElementById("frame-sample").append(frame);
+</script>

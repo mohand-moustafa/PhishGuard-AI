@@ -1,0 +1,11 @@
+FROM mcr.microsoft.com/playwright/python:v1.65.2-noble@sha256:38dd67fc654b56b3cba611e4c8eb71cd33750e1cd29eea2a5dc00b484817a75f
+
+RUN python -m pip install --no-cache-dir playwright==1.65.2 Pillow==13.0.0 \
+    && groupadd --gid 65532 scanner \
+    && useradd --uid 65532 --gid 65532 --no-create-home --home-dir /tmp --shell /usr/sbin/nologin scanner
+ENV HOME=/tmp XDG_CONFIG_HOME=/tmp/config XDG_CACHE_HOME=/tmp/cache \
+    PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PHISHGUARD_SANDBOX_WORKER=1
+WORKDIR /app
+COPY src/sandbox/__init__.py src/sandbox/worker.py src/sandbox/browser.py src/sandbox/browser_*.js /app/src/sandbox/
+USER 65532:65532
+ENTRYPOINT ["/usr/bin/timeout","--kill-after=2s","86s","python","-m","src.sandbox.worker"]

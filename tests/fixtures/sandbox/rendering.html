@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Delayed component fixture</title>
+<style>
+  body { margin: 0 }
+  #result { position: absolute; top: 50px; left: 50px; width: 180px;
+            height: 80px; background: #2468ac; color: white; border: 0 }
+  #result img { position: absolute; left: 16px; top: 16px; width: 20px; height: 20px }
+</style>
+<main aria-busy="true">Loading search results…</main>
+<script>
+  setTimeout(() => {
+    const button = document.createElement('button');
+    button.id = 'result';
+    button.textContent = 'Open result';
+    const icon = new Image();
+    icon.alt = '';
+    icon.src = '/result-icon.svg';
+    button.append(icon);
+    const panel = document.querySelector('main');
+    panel.replaceChildren(button);
+    panel.setAttribute('aria-busy', 'false');
+  }, 2300);
+</script>
+</html>

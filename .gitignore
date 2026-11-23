@@ -27,6 +27,7 @@ mlflow.db
 .env
 *.env
 !.env.example
+/.sandbox-data/
 
 # ===== Python =====
 venv/
@@ -55,6 +56,7 @@ Thumbs.db
 # ===== Browser extension build artifacts =====
 extension/*.zip
 extension/dist/
+/frontend/node_modules/
 
 # ===== Logs =====
 *.log

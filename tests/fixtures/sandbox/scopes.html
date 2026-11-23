@@ -1,0 +1,31 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Document and timing calibration</title>
+<style>
+  body { margin: 30px; font: 16px sans-serif; }
+  #timer { position: relative; width: 230px; height: 54px; }
+  #reference { width: 100%; height: 100%; }
+  #late-layer { position: absolute; inset: 0; opacity: .02; }
+  iframe { width: 160px; height: 60px; }
+</style>
+<h1>Passive calibration</h1>
+<p>Compare a zero-action layout change and independent component and frame namespaces.</p>
+<div id="timer"><button id="reference">Layout reference</button></div>
+<div id="first"></div><div id="second"></div><div id="closed"></div>
+<iframe title="First sample" id="frame-a" srcdoc='<button id="shared" onclick="this.title=1">First</button>'></iframe>
+<iframe title="Second sample" id="frame-b" srcdoc='<button id="shared" onclick="this.title=2">Second</button>'></iframe>
+<script>
+  for (const id of ["first","second","closed"]) {
+    const root = document.getElementById(id).attachShadow({ mode:id === "closed" ? "closed" : "open" });
+    const button = document.createElement("button");
+    button.id = id === "closed" ? "closed-interior" : "shared";
+    button.textContent = "Component " + id;
+    root.append(button);
+  }
+  setTimeout(() => {
+    const layer = document.createElement("div");
+    layer.id = "late-layer";
+    document.getElementById("timer").append(layer);
+    document.getElementById("frame-b").srcdoc = '<button id="shared" onclick="this.title=3">Updated</button>';
+  }, 950);
+</script>

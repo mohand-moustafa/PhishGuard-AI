@@ -1,0 +1,9 @@
+**
+!src/
+src/**
+!src/sandbox/
+src/sandbox/**
+!src/sandbox/__init__.py
+!src/sandbox/worker.py
+!src/sandbox/browser.py
+!src/sandbox/browser_*.js
